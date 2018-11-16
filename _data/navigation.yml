@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/  # - title: "About"
   - title: "Econ101"
-     url: /econ101/
+    url: /econ101/
 
 
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
