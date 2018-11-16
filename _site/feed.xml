@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-16T19:11:07+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Konstantin Mutabdzija</title><subtitle>Igra podataka.</subtitle><author><name>Konstantin Mutabdžija</name></author><entry><title type="html">Demografska tranzicija i globalizacija</title><link href="http://localhost:4000/populationUN/" rel="alternate" type="text/html" title=" Demografska tranzicija i globalizacija" /><published>2018-11-16T00:00:00+01:00</published><updated>2018-11-16T00:00:00+01:00</updated><id>http://localhost:4000/populationUN</id><content type="html" xml:base="http://localhost:4000/populationUN/">&lt;h1 id=&quot;par-modela-i&quot;&gt;Par modela I&lt;/h1&gt;
+
+&lt;p&gt;Često se u društvu našalimo, dosta kreativno pritom, kako je Istočno Sarajevo na putu da se pretvori u veliki starački dom.
+To je očit utsak, neposredan i snazan. Test očitosti takođe upućuje na pretpostavku da ovaj prostor, naslonjen na glavni grad, ipak sporije gubi stanovništvo odnosu na sjeverne ili krajnje južne dijelove. Prvi post ću postvetiti naporu da brojevima i slikama, prikažem bitne demografske trendove, uputim na ekonomske posljedice, pa onda ciklično ponavljam do konačnog zakčljučka. Izborni proces, kojem srećni gledamo u leđa, iznova nam je uskratio temeljnije bavljenje ovim problemom.&lt;/p&gt;
+
+&lt;p&gt;Dakle, opteretiću sebe sa par zadataka pri ovom izlaganju: najvažnijim zadatkom-da ne budem naporan i nerazumljiv, 
+a bez da zrtvujem preciznost i da bude razumljivo što široj publici. 
+Ova analiza će ići u tri dijela.&lt;/p&gt;
+
+&lt;h2 id=&quot;demografski-problem&quot;&gt;Demografski problem&lt;/h2&gt;
+
+&lt;p&gt;Neka prva tačka bude godina 2015. Krenimo iz nama najbližeg trenutka na koji se možemo osloniti. Krenimo sa najširim demografskim predviđanjima populacije. Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Gornji desni ugao pokazuje godinu predviđanja. Radi se o UN-ovim demografskim projekcijama, tako da u metodološki integritet ocjena ne treba pretjerano sumnjati, iako, i to će predmet komentara.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/output_4_1.png&quot; alt=&quot;Populacija prema starosnim grupama&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Iako nije lako, pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Pogledajte kako se se smanjuje stubić 15-19 i 20-24 iz 2015 u 2025.&lt;/p&gt;
+
+&lt;p&gt;Oprostite za suhoparnost, radi pojednostavljenja grafika, ispod prilažem jasnu tabelu, prva kolona ‘2015’,
+i raspored stanovnika po starosnim grupama su u redovima. Dakle, godine ‘2015’ bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. Nećemo u procentima, jednostavnije je samo apsolutne veličine gledati, dakle, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi. Koliko li je to potencijalnih brakova manje ? Ili djece ? Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti. 2025 je relevantna i nama bitna, ova dalja budućnost je samo usput.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;style scoped=&quot;&quot;&gt;
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+&lt;/style&gt;
+&lt;table border=&quot;1&quot; class=&quot;dataframe&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr style=&quot;text-align: right;&quot;&gt;
+      &lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;2015&lt;/th&gt;
+      &lt;th&gt;2025&lt;/th&gt;
+      &lt;th&gt;2035&lt;/th&gt;
+      &lt;th&gt;2045&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;0-4&lt;/th&gt;
+      &lt;td&gt;162.360&lt;/td&gt;
+      &lt;td&gt;162.382&lt;/td&gt;
+      &lt;td&gt;144.127&lt;/td&gt;
+      &lt;td&gt;128.953&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;5-9&lt;/th&gt;
+      &lt;td&gt;172.657&lt;/td&gt;
+      &lt;td&gt;160.964&lt;/td&gt;
+      &lt;td&gt;156.145&lt;/td&gt;
+      &lt;td&gt;133.588&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;10-14&lt;/th&gt;
+      &lt;td&gt;176.910&lt;/td&gt;
+      &lt;td&gt;161.883&lt;/td&gt;
+      &lt;td&gt;161.967&lt;/td&gt;
+      &lt;td&gt;143.775&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;15-19&lt;/th&gt;
+      &lt;td&gt;233.443&lt;/td&gt;
+      &lt;td&gt;172.097&lt;/td&gt;
+      &lt;td&gt;160.486&lt;/td&gt;
+      &lt;td&gt;155.722&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;20-24&lt;/th&gt;
+      &lt;td&gt;237.025&lt;/td&gt;
+      &lt;td&gt;175.849&lt;/td&gt;
+      &lt;td&gt;160.954&lt;/td&gt;
+      &lt;td&gt;161.111&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;25-29&lt;/th&gt;
+      &lt;td&gt;246.496&lt;/td&gt;
+      &lt;td&gt;231.605&lt;/td&gt;
+      &lt;td&gt;170.650&lt;/td&gt;
+      &lt;td&gt;159.183&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;30-34&lt;/th&gt;
+      &lt;td&gt;245.154&lt;/td&gt;
+      &lt;td&gt;234.886&lt;/td&gt;
+      &lt;td&gt;174.203&lt;/td&gt;
+      &lt;td&gt;159.501&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;35-39&lt;/th&gt;
+      &lt;td&gt;244.906&lt;/td&gt;
+      &lt;td&gt;244.091&lt;/td&gt;
+      &lt;td&gt;229.588&lt;/td&gt;
+      &lt;td&gt;169.160&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;40-44&lt;/th&gt;
+      &lt;td&gt;248.928&lt;/td&gt;
+      &lt;td&gt;242.167&lt;/td&gt;
+      &lt;td&gt;232.419&lt;/td&gt;
+      &lt;td&gt;172.510&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;45-49&lt;/th&gt;
+      &lt;td&gt;241.491&lt;/td&gt;
+      &lt;td&gt;240.568&lt;/td&gt;
+      &lt;td&gt;240.436&lt;/td&gt;
+      &lt;td&gt;226.684&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;50-54&lt;/th&gt;
+      &lt;td&gt;278.138&lt;/td&gt;
+      &lt;td&gt;241.982&lt;/td&gt;
+      &lt;td&gt;236.457&lt;/td&gt;
+      &lt;td&gt;227.847&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;55-59&lt;/th&gt;
+      &lt;td&gt;257.797&lt;/td&gt;
+      &lt;td&gt;230.659&lt;/td&gt;
+      &lt;td&gt;231.437&lt;/td&gt;
+      &lt;td&gt;232.839&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;60-64&lt;/th&gt;
+      &lt;td&gt;234.907&lt;/td&gt;
+      &lt;td&gt;258.185&lt;/td&gt;
+      &lt;td&gt;227.374&lt;/td&gt;
+      &lt;td&gt;224.520&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;65-69&lt;/th&gt;
+      &lt;td&gt;177.023&lt;/td&gt;
+      &lt;td&gt;228.477&lt;/td&gt;
+      &lt;td&gt;208.628&lt;/td&gt;
+      &lt;td&gt;212.817&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;70-74&lt;/th&gt;
+      &lt;td&gt;114.403&lt;/td&gt;
+      &lt;td&gt;193.138&lt;/td&gt;
+      &lt;td&gt;218.728&lt;/td&gt;
+      &lt;td&gt;197.918&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;75-79&lt;/th&gt;
+      &lt;td&gt;136.883&lt;/td&gt;
+      &lt;td&gt;128.366&lt;/td&gt;
+      &lt;td&gt;172.983&lt;/td&gt;
+      &lt;td&gt;165.039&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;80-84&lt;/th&gt;
+      &lt;td&gt;79.631&lt;/td&gt;
+      &lt;td&gt;67.102&lt;/td&gt;
+      &lt;td&gt;121.531&lt;/td&gt;
+      &lt;td&gt;146.459&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Sljedeći grafik, možda i nije najsrećnije rješenje za ono što nastojim pokazati. Ovo ‘ispravljanje’ i ‘uvećavanje’ vrha, odnosi se na biološko nestanje generacije ‘bejbi bumersa’(generacije rođene između ‘1946’ i ‘1964’), i posljedično poravnanje populacijske piramide, odnosno ujednačenja brojnosti populacije po pojedinačnim starosnim grupama. Dakle, nekada se brojnost mladih, brojnost ljudi u zrelim godinama, brojnost starijih prilično dosta razlikovala&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/output_9_0.png&quot; alt=&quot;Distribucija frekvencija vrijednosti 2015-2045&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Odmaknimo se malo od budućnosti i pogledajmo kratko u demografsku prošlost, da vidimo šta je to bilo od godina “rata” pa do 2015. Kojom brzinom smo se kretali prema kakvim rezultatima u ovim godinama koje brojimo od rata.&lt;/p&gt;
+
+&lt;h1 id=&quot;od-1990-do-2015&quot;&gt;Od 1990 do 2015&lt;/h1&gt;
+
+&lt;p&gt;Nisam znao previše o ovom periodu u Bosni i Hecegovini. Mislim da smo nedovoljno precizni kada su teme ovako ozbiljne.  Za početak tabela, možemo vidjeti ogroman pad broja mladih. Grupa ‘0-4’ godine sa 348.917 u 1990 godini, na 162.360 osoba u 2015. godini, 53% pad, vrtoglavo prepolovljavanje populacije beba. Sa druge strane, broj u grupi ‘80-84’ ‘85-89’ i dalje, skoro da se povećao tri puta(sklrolujte tabelu na desno, ne vidi se sav sadržaj).&lt;/p&gt;
+
+&lt;div&gt;
+&lt;style scoped=&quot;&quot;&gt;
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+&lt;/style&gt;
+&lt;table border=&quot;1&quot; class=&quot;dataframe&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr style=&quot;text-align: right;&quot;&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;Region&lt;/th&gt;
+      &lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;0-4&lt;/th&gt;
+      &lt;th&gt;5-9&lt;/th&gt;
+      &lt;th&gt;10-14&lt;/th&gt;
+      &lt;th&gt;15-19&lt;/th&gt;
+      &lt;th&gt;20-24&lt;/th&gt;
+      &lt;th&gt;25-29&lt;/th&gt;
+      &lt;th&gt;30-34&lt;/th&gt;
+      &lt;th&gt;35-39&lt;/th&gt;
+      &lt;th&gt;...&lt;/th&gt;
+      &lt;th&gt;60-64&lt;/th&gt;
+      &lt;th&gt;65-69&lt;/th&gt;
+      &lt;th&gt;70-74&lt;/th&gt;
+      &lt;th&gt;75-79&lt;/th&gt;
+      &lt;th&gt;80+&lt;/th&gt;
+      &lt;th&gt;80-84&lt;/th&gt;
+      &lt;th&gt;85-89&lt;/th&gt;
+      &lt;th&gt;90-94&lt;/th&gt;
+      &lt;th&gt;95-99&lt;/th&gt;
+      &lt;th&gt;100+&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2234&lt;/th&gt;
+      &lt;td&gt;Bosnia and Herzegovina&lt;/td&gt;
+      &lt;td&gt;1990&lt;/td&gt;
+      &lt;td&gt;348.917&lt;/td&gt;
+      &lt;td&gt;364.897&lt;/td&gt;
+      &lt;td&gt;364.554&lt;/td&gt;
+      &lt;td&gt;380.565&lt;/td&gt;
+      &lt;td&gt;378.855&lt;/td&gt;
+      &lt;td&gt;411.099&lt;/td&gt;
+      &lt;td&gt;375.500&lt;/td&gt;
+      &lt;td&gt;344.302&lt;/td&gt;
+      &lt;td&gt;...&lt;/td&gt;
+      &lt;td&gt;197.944&lt;/td&gt;
+      &lt;td&gt;121.044&lt;/td&gt;
+      &lt;td&gt;62.055&lt;/td&gt;
+      &lt;td&gt;56.609&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;36.787&lt;/td&gt;
+      &lt;td&gt;13.274&lt;/td&gt;
+      &lt;td&gt;3.585&lt;/td&gt;
+      &lt;td&gt;0.494&lt;/td&gt;
+      &lt;td&gt;0.062&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2235&lt;/th&gt;
+      &lt;td&gt;Bosnia and Herzegovina&lt;/td&gt;
+      &lt;td&gt;1995&lt;/td&gt;
+      &lt;td&gt;260.992&lt;/td&gt;
+      &lt;td&gt;293.930&lt;/td&gt;
+      &lt;td&gt;291.477&lt;/td&gt;
+      &lt;td&gt;289.287&lt;/td&gt;
+      &lt;td&gt;298.336&lt;/td&gt;
+      &lt;td&gt;290.404&lt;/td&gt;
+      &lt;td&gt;326.132&lt;/td&gt;
+      &lt;td&gt;303.110&lt;/td&gt;
+      &lt;td&gt;...&lt;/td&gt;
+      &lt;td&gt;201.083&lt;/td&gt;
+      &lt;td&gt;158.521&lt;/td&gt;
+      &lt;td&gt;94.371&lt;/td&gt;
+      &lt;td&gt;43.460&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;34.187&lt;/td&gt;
+      &lt;td&gt;17.514&lt;/td&gt;
+      &lt;td&gt;4.6&lt;/td&gt;
+      &lt;td&gt;0.826&lt;/td&gt;
+      &lt;td&gt;0.073&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2236&lt;/th&gt;
+      &lt;td&gt;Bosnia and Herzegovina&lt;/td&gt;
+      &lt;td&gt;2000&lt;/td&gt;
+      &lt;td&gt;235.649&lt;/td&gt;
+      &lt;td&gt;257.009&lt;/td&gt;
+      &lt;td&gt;287.463&lt;/td&gt;
+      &lt;td&gt;283.116&lt;/td&gt;
+      &lt;td&gt;275.575&lt;/td&gt;
+      &lt;td&gt;278.341&lt;/td&gt;
+      &lt;td&gt;270.128&lt;/td&gt;
+      &lt;td&gt;309.157&lt;/td&gt;
+      &lt;td&gt;...&lt;/td&gt;
+      &lt;td&gt;220.183&lt;/td&gt;
+      &lt;td&gt;172.375&lt;/td&gt;
+      &lt;td&gt;126.289&lt;/td&gt;
+      &lt;td&gt;66.631&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;23.972&lt;/td&gt;
+      &lt;td&gt;16.04&lt;/td&gt;
+      &lt;td&gt;6.21&lt;/td&gt;
+      &lt;td&gt;1.033&lt;/td&gt;
+      &lt;td&gt;0.105&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2237&lt;/th&gt;
+      &lt;td&gt;Bosnia and Herzegovina&lt;/td&gt;
+      &lt;td&gt;2005&lt;/td&gt;
+      &lt;td&gt;178.074&lt;/td&gt;
+      &lt;td&gt;234.977&lt;/td&gt;
+      &lt;td&gt;256.554&lt;/td&gt;
+      &lt;td&gt;286.611&lt;/td&gt;
+      &lt;td&gt;281.479&lt;/td&gt;
+      &lt;td&gt;273.539&lt;/td&gt;
+      &lt;td&gt;276.298&lt;/td&gt;
+      &lt;td&gt;268.020&lt;/td&gt;
+      &lt;td&gt;...&lt;/td&gt;
+      &lt;td&gt;147.611&lt;/td&gt;
+      &lt;td&gt;199.836&lt;/td&gt;
+      &lt;td&gt;147.274&lt;/td&gt;
+      &lt;td&gt;97.720&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;44.685&lt;/td&gt;
+      &lt;td&gt;12.822&lt;/td&gt;
+      &lt;td&gt;6.053&lt;/td&gt;
+      &lt;td&gt;1.474&lt;/td&gt;
+      &lt;td&gt;0.138&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2238&lt;/th&gt;
+      &lt;td&gt;Bosnia and Herzegovina&lt;/td&gt;
+      &lt;td&gt;2010&lt;/td&gt;
+      &lt;td&gt;174.088&lt;/td&gt;
+      &lt;td&gt;177.592&lt;/td&gt;
+      &lt;td&gt;234.431&lt;/td&gt;
+      &lt;td&gt;252.685&lt;/td&gt;
+      &lt;td&gt;279.019&lt;/td&gt;
+      &lt;td&gt;272.659&lt;/td&gt;
+      &lt;td&gt;263.778&lt;/td&gt;
+      &lt;td&gt;266.446&lt;/td&gt;
+      &lt;td&gt;...&lt;/td&gt;
+      &lt;td&gt;197.963&lt;/td&gt;
+      &lt;td&gt;133.880&lt;/td&gt;
+      &lt;td&gt;172.179&lt;/td&gt;
+      &lt;td&gt;115.462&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;65.878&lt;/td&gt;
+      &lt;td&gt;24.263&lt;/td&gt;
+      &lt;td&gt;5.015&lt;/td&gt;
+      &lt;td&gt;1.491&lt;/td&gt;
+      &lt;td&gt;0.201&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2239&lt;/th&gt;
+      &lt;td&gt;Bosnia and Herzegovina&lt;/td&gt;
+      &lt;td&gt;2015&lt;/td&gt;
+      &lt;td&gt;162.360&lt;/td&gt;
+      &lt;td&gt;172.657&lt;/td&gt;
+      &lt;td&gt;176.910&lt;/td&gt;
+      &lt;td&gt;233.443&lt;/td&gt;
+      &lt;td&gt;237.025&lt;/td&gt;
+      &lt;td&gt;246.496&lt;/td&gt;
+      &lt;td&gt;245.154&lt;/td&gt;
+      &lt;td&gt;244.906&lt;/td&gt;
+      &lt;td&gt;...&lt;/td&gt;
+      &lt;td&gt;234.907&lt;/td&gt;
+      &lt;td&gt;177.023&lt;/td&gt;
+      &lt;td&gt;114.403&lt;/td&gt;
+      &lt;td&gt;136.883&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;79.631&lt;/td&gt;
+      &lt;td&gt;36.415&lt;/td&gt;
+      &lt;td&gt;9.81&lt;/td&gt;
+      &lt;td&gt;1.339&lt;/td&gt;
+      &lt;td&gt;0.245&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;6 rows × 24 columns&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Radi jednostavnijeg prikaza, grupisao sam podatke na drugačiji način, primjeti se oštar pad grupe ‘0-20’ godina starosti, koja se prepolovila za 25 godina. Sa druge strane, populacija iznad 80 godina se uduplala.
+Grafik:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/output_15_0.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sljedeća tabela grupiše podatke u 4 veće grupe. Prikazan je broj stanovnika u hiljadama. Dakle, grupa ‘40-60’ godina, nezgrapno zavedena pod nazivom ‘40+’, jedina je zadržala je brojnost od preko milion. Ostale grupe su se značajno smanjile. Dakle, devedesete smo imali 55 hiljada stanovnika preko 80 godina, danas ih je 127 hiljada.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;style scoped=&quot;&quot;&gt;
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+&lt;/style&gt;
+&lt;table border=&quot;1&quot; class=&quot;dataframe&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr style=&quot;text-align: right;&quot;&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;0-20&lt;/th&gt;
+      &lt;th&gt;20+&lt;/th&gt;
+      &lt;th&gt;40+&lt;/th&gt;
+      &lt;th&gt;60+&lt;/th&gt;
+      &lt;th&gt;80+&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1990&lt;/th&gt;
+      &lt;td&gt;1458.93&lt;/td&gt;
+      &lt;td&gt;1509.76&lt;/td&gt;
+      &lt;td&gt;1002.88&lt;/td&gt;
+      &lt;td&gt;437.652&lt;/td&gt;
+      &lt;td&gt;54.202&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1995&lt;/th&gt;
+      &lt;td&gt;1135.69&lt;/td&gt;
+      &lt;td&gt;1217.98&lt;/td&gt;
+      &lt;td&gt;935.409&lt;/td&gt;
+      &lt;td&gt;497.435&lt;/td&gt;
+      &lt;td&gt;57.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2000&lt;/th&gt;
+      &lt;td&gt;1063.24&lt;/td&gt;
+      &lt;td&gt;1133.2&lt;/td&gt;
+      &lt;td&gt;937.43&lt;/td&gt;
+      &lt;td&gt;585.478&lt;/td&gt;
+      &lt;td&gt;47.36&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2005&lt;/th&gt;
+      &lt;td&gt;956.216&lt;/td&gt;
+      &lt;td&gt;1099.34&lt;/td&gt;
+      &lt;td&gt;1068.36&lt;/td&gt;
+      &lt;td&gt;592.441&lt;/td&gt;
+      &lt;td&gt;65.172&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2010&lt;/th&gt;
+      &lt;td&gt;838.796&lt;/td&gt;
+      &lt;td&gt;1081.9&lt;/td&gt;
+      &lt;td&gt;1085.05&lt;/td&gt;
+      &lt;td&gt;619.484&lt;/td&gt;
+      &lt;td&gt;96.848&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2015&lt;/th&gt;
+      &lt;td&gt;745.37&lt;/td&gt;
+      &lt;td&gt;973.581&lt;/td&gt;
+      &lt;td&gt;1026.35&lt;/td&gt;
+      &lt;td&gt;663.216&lt;/td&gt;
+      &lt;td&gt;127.44&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;totalna-populaciona-zavisnost&quot;&gt;Totalna populaciona zavisnost&lt;/h1&gt;
+
+&lt;p&gt;Tabela ispod prikazuje racio populacione zavisnosti- udio zbira osoba starosti ‘0-19’ i ‘65+’, naspram  ekonomski aktivnih osoba, starosti ‘15-65’. Dakle, prikazan je broj izdržavanih osoba od strane 100 pojedinaca grupe ‘15-65’. Sljedeća tabela bira najrazličitije zemlje i vidi se da sve kreću sa sličnih pozicija i dolaze u slične pozicije.&lt;/p&gt;
+
+&lt;p&gt;Prva mjerenja iz 50-ih, kažu, u Bosni i Hercegovini imamo da je 110 zavisnih lica izdržavano od strane 100 radno sposobnih lica. Dvijehiljadepetnaeste, taj broj je pao na 46. &lt;strong&gt;Dakle, danas, radnosposobnih 100 ljudi  izdržava 46 starijih i mladih osoba&lt;/strong&gt; , rekli bismo- breme se olakšalo u odnosu na one koje su nosile prethodne generacije.&lt;/p&gt;
+
+&lt;p&gt;Kao što ste svi pretpostavili, takva brojka je posljedica odluke o planiranju manjih porodica ili, konkretno, odluka ili slučja neostavljanja potomstva.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;style scoped=&quot;&quot;&gt;
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+&lt;/style&gt;
+&lt;table border=&quot;1&quot; class=&quot;dataframe&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr style=&quot;text-align: right;&quot;&gt;
+      &lt;th&gt;Region&lt;/th&gt;
+      &lt;th&gt;index&lt;/th&gt;
+      &lt;th&gt;China&lt;/th&gt;
+      &lt;th&gt;Japan&lt;/th&gt;
+      &lt;th&gt;Slovakia&lt;/th&gt;
+      &lt;th&gt;Bosnia and Herzegovina&lt;/th&gt;
+      &lt;th&gt;Serbia&lt;/th&gt;
+      &lt;th&gt;Germany&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;0&lt;/th&gt;
+      &lt;td&gt;1950&lt;/td&gt;
+      &lt;td&gt;83.992072&lt;/td&gt;
+      &lt;td&gt;93.818651&lt;/td&gt;
+      &lt;td&gt;71.694814&lt;/td&gt;
+      &lt;td&gt;110.745311&lt;/td&gt;
+      &lt;td&gt;76.696108&lt;/td&gt;
+      &lt;td&gt;57.018900&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1&lt;/th&gt;
+      &lt;td&gt;1955&lt;/td&gt;
+      &lt;td&gt;93.503465&lt;/td&gt;
+      &lt;td&gt;86.268174&lt;/td&gt;
+      &lt;td&gt;73.722059&lt;/td&gt;
+      &lt;td&gt;100.994806&lt;/td&gt;
+      &lt;td&gt;72.226668&lt;/td&gt;
+      &lt;td&gt;56.754277&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2&lt;/th&gt;
+      &lt;td&gt;1960&lt;/td&gt;
+      &lt;td&gt;98.553843&lt;/td&gt;
+      &lt;td&gt;77.243792&lt;/td&gt;
+      &lt;td&gt;76.950973&lt;/td&gt;
+      &lt;td&gt;93.682514&lt;/td&gt;
+      &lt;td&gt;69.512845&lt;/td&gt;
+      &lt;td&gt;55.166870&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;3&lt;/th&gt;
+      &lt;td&gt;1965&lt;/td&gt;
+      &lt;td&gt;108.766967&lt;/td&gt;
+      &lt;td&gt;68.019927&lt;/td&gt;
+      &lt;td&gt;76.762859&lt;/td&gt;
+      &lt;td&gt;96.868383&lt;/td&gt;
+      &lt;td&gt;70.022605&lt;/td&gt;
+      &lt;td&gt;58.077026&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Pomenutu mjeru ćemo grafički prikazati, od godine ‘1955’ pratimo grafik do ‘2015’ godine. Svršetkom drugog svetskog rata, BIH je krenula u proces demografske tranzicije sa nadprosječno visokim udjelom mladih ‘0-14’ godina starosti u odnosu na brojnost aktivnog dijela populacije.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/output_22_1.png&quot; alt=&quot;Odnos  1955-2015&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;količnik-pomoći-starijim-ljudima&quot;&gt;Količnik pomoći starijim ljudima&lt;/h1&gt;
+
+&lt;p&gt;Posljednja ilustracija je UN racio potencijalne pomoći klasi ‘64+’ od strane radno sposobnog stanovnistva klase ‘20-65’. Dakle, sada ne brojimo mladu populaciju(od 0-19), &lt;strong&gt;vidimo da u BIH na jednu osobu stariju od 65 godina idu 4,4 radno sposobna lica&lt;/strong&gt;  Ova mjera ne uključuje nezaposlena lica, sa čime BIH ima prilično problema. U tabeli ispod možemo vidjeti varijacije pomenute mjere. Smanjenje ove mjere ima ozbiljne implikacije za finansijske i osiguravajuće šeme, pogotovo za penzioni sistem zasnovan na međugeneracijskoj solidarnosti, kakav je implementiran u BIH.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;style scoped=&quot;&quot;&gt;
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+&lt;/style&gt;
+&lt;table border=&quot;1&quot; class=&quot;dataframe&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr style=&quot;text-align: right;&quot;&gt;
+      &lt;th&gt;Region&lt;/th&gt;
+      &lt;th&gt;China&lt;/th&gt;
+      &lt;th&gt;Japan&lt;/th&gt;
+      &lt;th&gt;Slovakia&lt;/th&gt;
+      &lt;th&gt;Bosnia and Herzegovina&lt;/th&gt;
+      &lt;th&gt;Serbia&lt;/th&gt;
+      &lt;th&gt;Germany&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1950&lt;/th&gt;
+      &lt;td&gt;13.891136&lt;/td&gt;
+      &lt;td&gt;12.159973&lt;/td&gt;
+      &lt;td&gt;9.752052&lt;/td&gt;
+      &lt;td&gt;14.541692&lt;/td&gt;
+      &lt;td&gt;8.437697&lt;/td&gt;
+      &lt;td&gt;6.961349&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1955&lt;/th&gt;
+      &lt;td&gt;14.400719&lt;/td&gt;
+      &lt;td&gt;11.654812&lt;/td&gt;
+      &lt;td&gt;9.514368&lt;/td&gt;
+      &lt;td&gt;16.696262&lt;/td&gt;
+      &lt;td&gt;9.162022&lt;/td&gt;
+      &lt;td&gt;6.453754&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1960&lt;/th&gt;
+      &lt;td&gt;15.315781&lt;/td&gt;
+      &lt;td&gt;11.406799&lt;/td&gt;
+      &lt;td&gt;9.114490&lt;/td&gt;
+      &lt;td&gt;17.011914&lt;/td&gt;
+      &lt;td&gt;9.653620&lt;/td&gt;
+      &lt;td&gt;5.845920&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1965&lt;/th&gt;
+      &lt;td&gt;16.181000&lt;/td&gt;
+      &lt;td&gt;11.021101&lt;/td&gt;
+      &lt;td&gt;7.771349&lt;/td&gt;
+      &lt;td&gt;14.779139&lt;/td&gt;
+      &lt;td&gt;8.817284&lt;/td&gt;
+      &lt;td&gt;5.183607&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1970&lt;/th&gt;
+      &lt;td&gt;14.858466&lt;/td&gt;
+      &lt;td&gt;10.037346&lt;/td&gt;
+      &lt;td&gt;6.893928&lt;/td&gt;
+      &lt;td&gt;13.458732&lt;/td&gt;
+      &lt;td&gt;7.985881&lt;/td&gt;
+      &lt;td&gt;4.635531&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1975&lt;/th&gt;
+      &lt;td&gt;13.661091&lt;/td&gt;
+      &lt;td&gt;8.815462&lt;/td&gt;
+      &lt;td&gt;6.409603&lt;/td&gt;
+      &lt;td&gt;11.786049&lt;/td&gt;
+      &lt;td&gt;7.148820&lt;/td&gt;
+      &lt;td&gt;4.274101&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1980&lt;/th&gt;
+      &lt;td&gt;12.669848&lt;/td&gt;
+      &lt;td&gt;7.572374&lt;/td&gt;
+      &lt;td&gt;6.042675&lt;/td&gt;
+      &lt;td&gt;11.300456&lt;/td&gt;
+      &lt;td&gt;7.171502&lt;/td&gt;
+      &lt;td&gt;4.202914&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1985&lt;/th&gt;
+      &lt;td&gt;11.995447&lt;/td&gt;
+      &lt;td&gt;6.749771&lt;/td&gt;
+      &lt;td&gt;6.894773&lt;/td&gt;
+      &lt;td&gt;12.511679&lt;/td&gt;
+      &lt;td&gt;7.873130&lt;/td&gt;
+      &lt;td&gt;4.770877&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1990&lt;/th&gt;
+      &lt;td&gt;11.604086&lt;/td&gt;
+      &lt;td&gt;5.868958&lt;/td&gt;
+      &lt;td&gt;6.288726&lt;/td&gt;
+      &lt;td&gt;10.517315&lt;/td&gt;
+      &lt;td&gt;6.951957&lt;/td&gt;
+      &lt;td&gt;4.640860&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1995&lt;/th&gt;
+      &lt;td&gt;10.781131&lt;/td&gt;
+      &lt;td&gt;4.857965&lt;/td&gt;
+      &lt;td&gt;6.198276&lt;/td&gt;
+      &lt;td&gt;7.477715&lt;/td&gt;
+      &lt;td&gt;5.811959&lt;/td&gt;
+      &lt;td&gt;4.415569&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2000&lt;/th&gt;
+      &lt;td&gt;9.910066&lt;/td&gt;
+      &lt;td&gt;4.017273&lt;/td&gt;
+      &lt;td&gt;6.110296&lt;/td&gt;
+      &lt;td&gt;6.237487&lt;/td&gt;
+      &lt;td&gt;4.873083&lt;/td&gt;
+      &lt;td&gt;4.118564&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2005&lt;/th&gt;
+      &lt;td&gt;9.410728&lt;/td&gt;
+      &lt;td&gt;3.384628&lt;/td&gt;
+      &lt;td&gt;6.147264&lt;/td&gt;
+      &lt;td&gt;5.101790&lt;/td&gt;
+      &lt;td&gt;4.579154&lt;/td&gt;
+      &lt;td&gt;3.538522&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2010&lt;/th&gt;
+      &lt;td&gt;8.779679&lt;/td&gt;
+      &lt;td&gt;2.851080&lt;/td&gt;
+      &lt;td&gt;5.799116&lt;/td&gt;
+      &lt;td&gt;5.049692&lt;/td&gt;
+      &lt;td&gt;4.689653&lt;/td&gt;
+      &lt;td&gt;3.207880&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2015&lt;/th&gt;
+      &lt;td&gt;7.506943&lt;/td&gt;
+      &lt;td&gt;2.344515&lt;/td&gt;
+      &lt;td&gt;5.026510&lt;/td&gt;
+      &lt;td&gt;4.441367&lt;/td&gt;
+      &lt;td&gt;4.110766&lt;/td&gt;
+      &lt;td&gt;3.114170&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;matplotlib.axes._subplots.AxesSubplot at 0x7fcc36438860&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/output_26_1.png&quot; alt=&quot;Odnos  1955-2015&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;Šelingov-model&quot;&gt;Šelingov model&lt;/h1&gt;
+
+&lt;p&gt;Ko to ide iz Bosne i Hercegocine ? Koliko često idemo iz Bosne i Hercegovine ? Egzaktno ću se nekada i probati pozabaviti, ali ovdje kroz Šelingov model samo pokušaj napomena.&lt;/p&gt;
+
+&lt;h1 id=&quot;lotka-voltera-grabljivac--žrtva-modeli--igra-zečeva-i-lisica&quot;&gt;Lotka-Voltera( grabljivac- žrtva modeli) : igra zečeva i lisica&lt;/h1&gt;
+
+&lt;p&gt;Grabljivac-plijen model, u konkretnom slučaju, simulira konkurenciju  između dvije populacije za ograničeni resusrs. Probajte se i sami zamisliti, vjerovatno ćete oko sebe naći brojne situacije čija dinamika može biti zahvaćena ovakvim modelom.&lt;/p&gt;
+
+&lt;p&gt;Zamisao se sljedeća, neka postoji jedan zatvoren ekosistem koji se sastoji od lisica i zečeva. Tu se zečevi hrane raznim biljkama, kojih ima u izobilju, i u odsustvu predatora, kao što su lisice, njihova brojnost raste jako brzo. Lisice, sa druge strane, ne mogu da se hrane travama, već se hrane zečevima i umjereno održavaju njihov broj. Ukoliko lisice postanu halapljive i ubiju previše zečeva, izumrijeće-neće imati šta jesti.&lt;/p&gt;
+
+&lt;p&gt;Zamislimo da postoji kapacitet brojnosti, dakle koliko hrane može da se stvori u tom sistemu toliko zečeva i lisica tu mogu da opstaju. Nije li tako i u ekonomiji?- zatvorenom sistemu na prostoru države ? Kada nestane mogućnosti zaposlenja, mogućnosti za život kakvim se teži, kada je brojnost na maksimumu, odlaze li ljudi kao zečevi i lisice?&lt;/p&gt;
+
+&lt;p&gt;Pogledajmo grafik ispod. Vidimo da populacija brzo raste kada nije dostignut broj kapaciteta sistema.
+I nije li tako bilo i kod nas ? Nije li posljeratna ekspanzija prije svega državnog sektora i masovnog zaposljavanja održala stope radjanja. Dok nema previše konkurencije za resurse, otvoren je rast prema većoj brojnosti.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/output_33_0.png&quot; alt=&quot;Odnos  1955-2015&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Po pitanju brojnosti zečeva i lisica, jednostavne dinamičke formule daju nam uvide u kretanja brojnosti.
+Ciklusi nisu u fazi, dakle, kada plijen brzo raste, malo lisica je okolo.&lt;/p&gt;
+
+&lt;p&gt;Možemo li tako&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/output_35_0.png&quot; alt=&quot;Odnos  1955-2015&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/output_36_0.png&quot; alt=&quot;Odnos  1955-2015&quot; /&gt;&lt;/p&gt;</content><author><name>Konstantin Mutabdžija</name></author><category term="domaće teme" /><category term="demografija" /><summary type="html">Par modela I</summary></entry></feed>

@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "About"
+title: "Biografija"
 permalink: /about/
 header:
-    image: "/images/footer-video.jpg"
+    image: "/images/jose-moreno.jpg"
 ---
 
 
