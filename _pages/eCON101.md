@@ -1,7 +1,7 @@
 
 ---
 title: "Postovi prema tagu"
-permalink: /econ101/
+permalink: /eCON101/
 layout: archive
 autor_profile: true
 header: 
