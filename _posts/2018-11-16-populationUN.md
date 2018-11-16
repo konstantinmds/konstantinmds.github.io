@@ -3,11 +3,11 @@ title: " Demografska tranzicija i globalizacija"
 date: 2018-11-16
 tags: [domaće teme, demografija]
 header:
-   image: "images/
-   
+   image: "images/ethan-weil.jpg"
+   excerpt: "Ekonomija, Migracije, Data"
 ---
    
-   # Par modela :prvi dio
+# Par modela
 
 Često se u društvu našalimo, dosta kreativno pritom, kako je Istočno Sarajevo na putu da se pretvori u veliki starački dom.
 To je očit utsak, neposredan i snazan. Test očitosti takođe upućuje na pretpostavku da ovaj prostor, naslonjen na glavni grad, ipak sporije gubi stanovništvo odnosu na sjeverne ili krajnje južne dijelove. Prvi post ću postvetiti naporu da brojevima i slikama, prikažem bitne demografske trendove, uputim na ekonomske posljedice, pa onda ciklično ponavljam do konačnog zakčljučka. Izborni proces, kojem srećni gledamo u leđa, iznova nam je uskratio temeljnije bavljenje ovim problemom. 
