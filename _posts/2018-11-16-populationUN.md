@@ -1,8 +1,13 @@
+---
+title: " Demografska tranzicija i globalizacija"
+date: 2018-11-16
+tags: [domaće teme, demografija]
+header:
+   
+   # Par modela :prvi dio
 
-   #  Par modela :prvi dio
-
-Često se u društvu našalimo, dosta kreativno pritom, kako je Istočno Sarajevo na putu da postane "grad đedova i baba".
-To je očit utsak, neposredan i snazan. Pored toga, vjerujem da se ovaj prostor ne prazni u mjeri kao tradicionalno jačim migracijama podložan sjeverni dio. Ovdje ću pokušati,brojevima i slikama, prikazati koliko brzo se demografska struktura mijenja, kakve ekonomske posljedice mogu biti i kako to utiče na dalje migracije. Čekao sam da se izborni proces završi, pa da mogu o ovome govoriti više, i mislim da se ovom problemu nije posvetilo dovoljno kvalitetnog prostora. 
+Često se u društvu našalimo, dosta kreativno pritom, kako je Istočno Sarajevo na putu da se pretvori u veliki starački dom.
+To je očit utsak, neposredan i snazan. Test očitosti takođe upućuje na pretpostavku da ovaj prostor, naslonjen na glavni grad, ipak sporije gubi stanovništvo odnosu na sjeverne ili krajnje južne dijelove. Prvi post ću postvetiti naporu da brojevima i slikama, prikažem bitne demografske trendove, uputim na ekonomske posljedice, pa onda ciklično ponavljam do konačnog zakčljučka. Izborni proces, kojem srećni gledamo u leđa, iznova nam je uskratio temeljnije bavljenje ovim problemom. 
 
 Dakle, opteretiću sebe sa par zadataka pri ovom izlaganju: najvažnijim zadatkom-da ne budem naporan i nerazumljiv, 
 a bez da zrtvujem preciznost i da bude razumljivo što široj publici. 
@@ -10,7 +15,7 @@ Ova analiza će ići u tri dijela.
 
 ## Demografski problem : 
 
-Neka prva tačka bude godina 2015. Krenimo sa najširim demografskim predviđanjima populacije. Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Gornji desni ugao pokazuje godinu predviđanja. Radi se o UN-ovim demografskim projekcijama, tako da u metodološki integritet ocjena ne treba pretjerano sumnjati, iako, i to će predmet komentara.
+Neka prva tačka bude godina 2015. Krenimo iz nama najbližeg trenutka na koji se možemo osloniti. Krenimo sa najširim demografskim predviđanjima populacije. Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Gornji desni ugao pokazuje godinu predviđanja. Radi se o UN-ovim demografskim projekcijama, tako da u metodološki integritet ocjena ne treba pretjerano sumnjati, iako, i to će predmet komentara.
 
 
 
@@ -25,7 +30,7 @@ Neka prva tačka bude godina 2015. Krenimo sa najširim demografskim predviđanj
 
 
 
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_4_1.png" alt="Populacija prema starosnim grupama">
 ![png](output_4_1.png)
 
 
@@ -201,6 +206,7 @@ Sljedeći grafik, možda i nije najsrećnije rješenje za ono što nastojim poka
 
 ```
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_9_0.png" alt="Distribucija frekvencija vrijednosti 2015-2045">
 
 ![png](output_9_0.png)
 
@@ -419,7 +425,7 @@ Grafik:
 ```python
 
 ```
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_15_0.png" alt="">
 
 ![png](output_15_0.png)
 
@@ -629,6 +635,7 @@ Pomenutu mjeru ćemo grafički prikazati, od godine '1955' pratimo grafik do '20
 
 
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_22_1.png" alt="Odnos  1955-2015">
 
 ![png](output_22_1.png)
 
@@ -819,6 +826,7 @@ Tabela:
 
 
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_26_1.png" alt="Odnos  1955-2015">
 
 ![png](output_26_1.png)
 
@@ -974,8 +982,7 @@ I nije li tako bilo i kod nas ? Nije li posljeratna ekspanzija prije svega drža
 ```python
 
 ```
-
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_33_0.png" alt="Odnos  1955-2015">
 ![png](output_33_0.png)
 
 
@@ -989,7 +996,7 @@ Možemo li tako
 
 ```
 
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_35_0.png" alt="Odnos  1955-2015">
 ![png](output_35_0.png)
 
 
@@ -998,6 +1005,6 @@ Možemo li tako
 
 ```
 
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_36_0.png" alt="Odnos  1955-2015">
 ![png](output_36_0.png)
 
