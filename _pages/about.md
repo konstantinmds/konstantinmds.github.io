@@ -3,7 +3,7 @@ layout: posts
 title: "About"
 permalink: /about/
 header:
-    image: "/images/footer-video.jpg"
+    image: "/images/jose-moreno.jpg"
 ---
 
 
