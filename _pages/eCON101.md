@@ -1,9 +1,9 @@
 
 ---
+layout: posts
+permalink: /econ101/
 title: "Postovi prema tagu"
-permalink: /eCON101/
-layout: archive
-autor_profile: true
+author_profile: true
 header: 
    image: "/images/footer-video.jpg"
 ---
