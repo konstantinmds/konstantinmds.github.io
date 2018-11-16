@@ -916,7 +916,6 @@ I nije li tako bilo i kod nas ? Nije li posljeratna ekspanzija prije svega drža
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_33_0.png" alt="Odnos  1955-2015">
-![png](output_33_0.png)
 
 
 Po pitanju brojnosti zečeva i lisica, jednostavne dinamičke formule daju nam uvide u kretanja brojnosti.
