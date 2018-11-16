@@ -5,6 +5,6 @@ permalink: /econ101/
 layout: archive
 autor_profile: true
 header: 
-   image:"/images/footer-video.jpg"
+   image: "/images/footer-video.jpg"
 --------
 
