@@ -4,7 +4,7 @@ permalink: /econ101/
 title: "Postovi prema tagu"
 author_profile: true
 header: 
-    image: "/images/footer-video.jpg"
+    image: "/images/jose-moreno.jpg"
 ---
 
 {% include base_path %}
