@@ -4,21 +4,21 @@ date: 2018-11-16
 tags: [domaće teme, demografija]
 header:
    image: "images/ethan-weil.jpg"
-   
+      excerpt: "Ekonomija, Migracije, Data"
 ---
    
 # Par modela I
 
-Često se u društvu našalimo, dosta kreativno pritom, kako je Istočno Sarajevo na putu da se pretvori u veliki starački dom.
-To je očit utsak, neposredan i snazan. Test očitosti takođe upućuje na pretpostavku da ovaj prostor, naslonjen na glavni grad, ipak sporije gubi stanovništvo odnosu na sjeverne ili krajnje južne dijelove. Prvi post ću postvetiti naporu da brojevima i slikama, prikažem bitne demografske trendove, uputim na ekonomske posljedice, pa onda ciklično ponavljam do konačnog zakčljučka. Izborni proces, kojem srećni gledamo u leđa, iznova nam je uskratio temeljnije bavljenje ovim problemom. 
+Često se u društvu našalimo, i dosta kreativno pritom, kako je Istočno Sarajevo na putu da se pretvori u veliki starački dom.
+To je očit utsak, neposredan i snazan. Test očitosti takođe upućuje na pretpostavku da ovaj prostor, naslonjen na glavni grad, ipak sporije gubi stanovništvo odnosu na sjeverne ili krajnje južne dijelove. Prvi post ću postvetiti naporu da brojevima i slikama, prikažem bitne demografske trendove, uputim na ekonomske posljedice, pa onda ciklično ponavljam do konačnog zakčljučka. Izborni proces, kojem srećni gledamo u leđa, opet nam je uskratio temeljnije bavljenje posljedicama najbitnijih problema. 
 
-Dakle, opteretiću sebe sa par zadataka pri ovom izlaganju: najvažnijim zadatkom-da ne budem naporan i nerazumljiv, 
+Dakle, opteretiću sebe sa par zadataka pri ovom izlaganju: najvažnijim- da ne budem naporan i nerazumljiv, 
 a bez da zrtvujem preciznost i da bude razumljivo što široj publici. 
 Ova analiza će ići u tri dijela.
 
 ## Demografski problem  
 
-Neka prva tačka bude godina 2015. Krenimo iz nama najbližeg trenutka na koji se možemo osloniti. Krenimo sa najširim demografskim predviđanjima populacije. Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Gornji desni ugao pokazuje godinu predviđanja. Radi se o UN-ovim demografskim projekcijama, tako da u metodološki integritet ocjena ne treba pretjerano sumnjati, iako, i to će predmet komentara.
+Neka prva tačka bude godina 2015. Krenimo iz nama najbližeg trenutka na koji se možemo osloniti. Krenimo sa najširim demografskim predviđanjima populacije. Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Gornji desni ugao pokazuje godinu predviđanja. Radi se o UN-ovim demografskim projekcijama, tako da u metodološki integritet ocjena ne treba pretjerano sumnjati, iako, ni to nećemo uzimati zdravo za gotovo i biće predmet kasnijih komentara.
 
 
 
@@ -26,10 +26,10 @@ Neka prva tačka bude godina 2015. Krenimo iz nama najbližeg trenutka na koji s
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_4_1.png" alt="Populacija prema starosnim grupama">
 
 
-Iako nije lako, pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Pogledajte kako se se smanjuje stubić 15-19 i 20-24 iz 2015 u 2025.
+Iako nije lako, pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Pogledajte kako se se smanjuje stubić '15-19' i '20-24' iz 2015 u 2025. godini. Dvijehiljade su godine u kojima se stopa rađanja prilično umanjima.
 
-Oprostite za suhoparnost, radi pojednostavljenja grafika, ispod prilažem jasnu tabelu, prva kolona '2015',
-i raspored stanovnika po starosnim grupama su u redovima. Dakle, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. Nećemo u procentima, jednostavnije je samo apsolutne veličine gledati, dakle, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi. Koliko li je to potencijalnih brakova manje ? Ili djece ? Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti. 2025 je relevantna i nama bitna, ova dalja budućnost je samo usput.
+Oprostite za suhoparnost, ovakvi trenutci će dolaziti iznova, radi pojednostavljenja poente grafika, ispod prilažem jasnu tabelu, prva kolona  je godina'2015', a raspored stanovnika po starosnim grupama su u redovima. Dakle, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. 
+Koliko li je to potencijalnih brakova manje ? Ili djece ? Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti. 2025 je relevantna i nama bitna, ova dalja budućnost je samo usput.
 
 
 
@@ -183,19 +183,22 @@ i raspored stanovnika po starosnim grupama su u redovima. Dakle, godine '2015' b
 
 
 
-Sljedeći grafik, možda i nije najsrećnije rješenje za ono što nastojim pokazati. Ovo 'ispravljanje' i 'uvećavanje' vrha, odnosi se na biološko nestanje generacije 'bejbi bumersa'(generacije rođene između '1946' i '1964'), i posljedično poravnanje populacijske piramide, odnosno ujednačenja brojnosti populacije po pojedinačnim starosnim grupama. Dakle, nekada se brojnost mladih, brojnost ljudi u zrelim godinama, brojnost starijih prilično dosta razlikovala
+Sljedeći grafik, možda i nije najsrećnije rješenje za ono što nastojim pokazati. Ovo 'ispravljanje' i 'uvećavanje' vrha, odnosi se na biološko nestanje generacije 'bejbi bumersa'(generacije rođene između '1946' i '1964'), i posljedično poravnanje populacijske piramide, odnosno ujednačenja brojnosti populacije po pojedinačnim starosnim grupama. Dakle, nekada se brojnost mladih, brojnost ljudi u zrelim godinama, brojnost starijih prilično dosta razlikovala. I ona svoju srednju vrijednost vremenom pomjera ulijevo, prema manjem broju. 
 
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_9_0.png" alt="Distribucija frekvencija vrijednosti 2015-2045">
 
 
+Budućnost kakvu je UN predviđa biće predmet koji za sada ostavljamo. Za ispravke bićemo spremni kasnije.
 
-Odmaknimo se malo od budućnosti i pogledajmo kratko u demografsku prošlost, da vidimo šta je to bilo od godina "rata" pa do 2015. Kojom brzinom smo se kretali prema kakvim rezultatima u ovim godinama koje brojimo od rata.
+Odmaknimo se malo od budućnosti i pogledajmo u demografsku prošlost, da vidimo šta je to bilo od godina "rata" pa do 2015. Kojom brzinom smo se kretali prema kakvim rezultatima u ovim godinama koje brojimo od rata.
 
 # Od 1990 do 2015
 
-Nisam znao previše o ovom periodu u Bosni i Hecegovini. Mislim da smo nedovoljno precizni kada su teme ovako ozbiljne.  Za početak tabela, možemo vidjeti ogroman pad broja mladih. Grupa '0-4' godine sa 348.917 u 1990 godini, na 162.360 osoba u 2015. godini, 53% pad, vrtoglavo prepolovljavanje populacije beba. Sa druge strane, broj u grupi '80-84' '85-89' i dalje, skoro da se povećao tri puta(sklrolujte tabelu na desno, ne vidi se sav sadržaj).
+Nisam znao previše o ovom periodu u Bosni i Hecegovini. Mislim da smo kao društvo nedovoljno precizni kada su teme ovako ozbiljne.  Za početak tabela, nešto drugačija, ali opet vjerujem da ćete se svi lako snaći. Znam znam, treba je skrolovati na desno da bi se sve uhvatilo. 
+Za dvadesetpet godina, prvo-možemo vidjeti ogroman pad broja mladih. Grupa '0-4' godine sa 348.917 u 1990 godini, na 162.360 osoba u 2015. godini, 53% pad, vrtoglavo prepolovljavanje populacije beba. Sa druge strane, broj u grupi '80-84' i stariji, _skoro da se povećao tri puta_ (sklrolujte tabelu na desno, ne vidi se sav sadržaj).
+
 
 
 
@@ -393,15 +396,13 @@ Nisam znao previše o ovom periodu u Bosni i Hecegovini. Mislim da smo nedovoljn
 
 
 
-Radi jednostavnijeg prikaza, grupisao sam podatke na drugačiji način, primjeti se oštar pad grupe '0-20' godina starosti, koja se prepolovila za 25 godina. Sa druge strane, populacija iznad 80 godina se uduplala.
-Grafik:
-
+Radi jednostavnijeg prikaza, grupisao sam podatke u većoj mjeri. Dakle, sada imamo stare do 20 godina( tamno plava linija koja brzo pada) , između 20 i 40, 40-60,60-80, i grupa starijih od 80( žuta linija). Prvo ide jedan malo lošiji grafički prikaz, tabela će biti bolja.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_15_0.png" alt="">
 
 
 
- Sljedeća tabela grupiše podatke u 4 veće grupe. Prikazan je broj stanovnika u hiljadama. Dakle, grupa '40-60' godina, nezgrapno zavedena pod nazivom '40+', jedina je zadržala je brojnost od preko milion. Ostale grupe su se značajno smanjile. Dakle, devedesete smo imali 55 hiljada stanovnika preko 80 godina, danas ih je 127 hiljada.
+ Tabela, kao što je najavljeno, 0grupiše podatke u 5 grupa. Prikazan je broj stanovnika u hiljadama. Dakle, grupa '40-60' godina, nezgrapno zavedena pod nazivom '40+', jedina je zadržala je brojnost od preko milion. Ostale grupe su se značajno smanjile. Dakle, devedesete smo imali 55 hiljada stanovnika preko 80 godina, danas ih je 127 hiljada.
 
 
 
@@ -497,12 +498,15 @@ Grafik:
 
 # Totalna populaciona zavisnost
 
-Tabela ispod prikazuje racio populacione zavisnosti- udio zbira osoba starosti '0-19' i '65+', naspram  ekonomski aktivnih osoba, starosti '15-65'. Dakle, prikazan je broj izdržavanih osoba od strane 100 pojedinaca grupe '15-65'. Sljedeća tabela bira najrazličitije zemlje i vidi se da sve kreću sa sličnih pozicija i dolaze u slične pozicije.
+Jedna značajna mjera održivosti društva zaslužuje da je obradimo. Statistike je nazivaju totalna populaciona zavisnost.
+U stvari to je - udio zbira osoba starosti '0-19' i '65+', koje se smatraju neaktivnim kategorijama (djecom i starima), naspram  ekonomski aktivnih osoba, starosti '20-65'. Naravno, mnogi počinju da rade prije dvadesete, a i mnogi rade iako stariji od 65, ali mjera sama po sebi je precizna, vjerujte mi tu. Dakle, prikazan je broj izdržavanih osoba od strane 100 pojedinaca grupe '15-65'.
+Kao što jedna porodica traži zdrav balans, da je čini muž koji radi, žena koja radi i eto, troje djece- zavisnih članova i stara baka sa penzijom dovoljnom za lijekove. Slabije balansirana porodica je jedan muž sa prosječnom BiH platom, dvije babe i petoro djece. Puno članova koje zavise od produktivnog člana domaćinstva. Nadam se da objašnjenje nije banalno. Sljedeća tabela bira najrazličitije zemlje i vidi se da sve kreću sa sličnih pozicija i dolaze u slične pozicije.
 
 Prva mjerenja iz 50-ih, kažu, u Bosni i Hercegovini imamo da je 110 zavisnih lica izdržavano od strane 100 radno sposobnih lica. Dvijehiljadepetnaeste, taj broj je pao na 46. __Dakle, danas, radnosposobnih 100 ljudi  izdržava 46 starijih i mladih osoba__ , rekli bismo- breme se olakšalo u odnosu na one koje su nosile prethodne generacije.
 
-Kao što ste svi pretpostavili, takva brojka je posljedica odluke o planiranju manjih porodica ili, konkretno, odluka ili slučja neostavljanja potomstva. 
-
+Kao što ste svi pretpostavili, takva brojka je posljedica odluke o planiranju manjih porodica ili, konkretno, odluka ili slučja neostavljanja potomstva. Dakle, danas imamo veliki broj stanovnika u radnom vijeku. 
+Spremimo se za prvi veliki zaključak posta:iz neba pa u rebra. BIH ima jako povoljnu starosnu strukturu u ovom trenutku, djece koju treba izdržavati je manje nego ikada a stari obično su zaradili penzije u prošlom velikodušnom sistemu ili onome što je od njega polako odumiralo poslije rata, tako da i oni doprinose odbrtu novca u ekonomiji. Probem je što je aktivno stanovništvo u nemogućnosti da dovoljno zaradi. 
+Ovu tabelu ću nekada popraviti. Nisu učitana mjerenja do 2015. godine. Snaćićemo se na grafikonu ispod.
 
 
 
@@ -584,7 +588,7 @@ Kao što ste svi pretpostavili, takva brojka je posljedica odluke o planiranju m
 
 
 
-Pomenutu mjeru ćemo grafički prikazati, od godine '1955' pratimo grafik do '2015' godine. Svršetkom drugog svetskog rata, BIH je krenula u proces demografske tranzicije sa nadprosječno visokim udjelom mladih '0-14' godina starosti u odnosu na brojnost aktivnog dijela populacije.
+Od godine '1955' pratimo grafik do '2015' godine. Svršetkom drugog svetskog rata, BIH je krenula u proces takozvane 'demografske tranzicije' sa nadprosječno visokim udjelom mladih '0-14' godina starosti u odnosu na brojnost aktivnog dijela populacije. Svi se sjećamo tih priča o velikim dvadesetočlanim porodicama iz cijele Bosne i svakako Hercegovine. Otac radnik uz podršku porodice obično je bio sposoban da ih sve izvede na pravi put. Ovdje sada stavljam tačku, neka svi razmisle za sebe. Još jedna mjera u prvom dijelu. 
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_22_1.png" alt="Odnos  1955-2015">
@@ -594,8 +598,7 @@ Pomenutu mjeru ćemo grafički prikazati, od godine '1955' pratimo grafik do '20
 
 # Količnik pomoći starijim ljudima
 
-Posljednja ilustracija je UN racio potencijalne pomoći klasi '64+' od strane radno sposobnog stanovnistva klase '20-65'. Dakle, sada ne brojimo mladu populaciju(od 0-19), __vidimo da u BIH na jednu osobu stariju od 65 godina idu 4,4 radno sposobna lica__  Ova mjera ne uključuje nezaposlena lica, sa čime BIH ima prilično problema. U tabeli ispod možemo vidjeti varijacije pomenute mjere. Smanjenje ove mjere ima ozbiljne implikacije za finansijske i osiguravajuće šeme, pogotovo za penzioni sistem zasnovan na međugeneracijskoj solidarnosti, kakav je implementiran u BIH. 
-
+Posljednja ilustracija je UN racio potencijalne pomoći klasi '64+' od strane radno sposobnog stanovnistva klase '20-65'. Dakle, sada ne brojimo mladu populaciju(od 0-19), __vidimo da u BIH na jednu osobu stariju od 65 godina idu 4,4 radno sposobna lica__  
 
 
 
@@ -765,39 +768,4 @@ Posljednja ilustracija je UN racio potencijalne pomoći klasi '64+' od strane ra
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_26_1.png" alt="Odnos  1955-2015">
 
-
-
-# Šelingov model
-
-Ko to ide iz Bosne i Hercegocine ? Koliko često idemo iz Bosne i Hercegovine ? Egzaktno ću se nekada i probati pozabaviti, ali ovdje kroz Šelingov model samo pokušaj napomena.
-
-
-
-# Lotka-Voltera( grabljivac- žrtva modeli) : igra zečeva i lisica
-
-Grabljivac-plijen model, u konkretnom slučaju, simulira konkurenciju  između dvije populacije za ograničeni resusrs. Probajte se i sami zamisliti, vjerovatno ćete oko sebe naći brojne situacije čija dinamika može biti zahvaćena ovakvim modelom. 
-
-Zamisao se sljedeća, neka postoji jedan zatvoren ekosistem koji se sastoji od lisica i zečeva. Tu se zečevi hrane raznim biljkama, kojih ima u izobilju, i u odsustvu predatora, kao što su lisice, njihova brojnost raste jako brzo. Lisice, sa druge strane, ne mogu da se hrane travama, već se hrane zečevima i umjereno održavaju njihov broj. Ukoliko lisice postanu halapljive i ubiju previše zečeva, izumrijeće-neće imati šta jesti. 
-
-Zamislimo da postoji kapacitet brojnosti, dakle koliko hrane može da se stvori u tom sistemu toliko zečeva i lisica tu mogu da opstaju. Nije li tako i u ekonomiji?- zatvorenom sistemu na prostoru države ? Kada nestane mogućnosti zaposlenja, mogućnosti za život kakvim se teži, kada je brojnost na maksimumu, odlaze li ljudi kao zečevi i lisice?
-
-Pogledajmo grafik ispod. Vidimo da populacija brzo raste kada nije dostignut broj kapaciteta sistema.
-I nije li tako bilo i kod nas ? Nije li posljeratna ekspanzija prije svega državnog sektora i masovnog zaposljavanja održala stope radjanja. Dok nema previše konkurencije za resurse, otvoren je rast prema većoj brojnosti.
-
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/output_33_0.png" alt="Odnos  1955-2015">
-
-
-Po pitanju brojnosti zečeva i lisica, jednostavne dinamičke formule daju nam uvide u kretanja brojnosti.
-Ciklusi nisu u fazi, dakle, kada plijen brzo raste, malo lisica je okolo. 
-
-Možemo li tako 
-
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/output_35_0.png" alt="Odnos  1955-2015">
-
-
-
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/output_36_0.png" alt="Odnos  1955-2015">
-
+Ova mjera nije konačna razrada svih implikacija koje nosi kaj količnik. Prvo, ona ne uzima u obzir stalno nezaposlena lica, sa čime BIH ima ozbiljne probleme, koje treba evidentirati. U tabeli ispod možemo vidjeti varijacije pomenute mjere. Smanjenje ove mjere ima ozbiljne implikacije za finansijske i osiguravajuće šeme, pogotovo za penzioni sistem zasnovan na međugeneracijskoj solidarnosti, kakav je implementiran u BIH. Razrada tog pitanja doći će na red kasnije.
