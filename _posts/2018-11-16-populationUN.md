@@ -3,6 +3,7 @@ layout: post
 title: "Demografska tranzicija i globalizacija I"
 date: 2018-11-16
 tags: [domaće teme, demografija]
+published: true
 header:
    image: "images/ethan-weil.jpg"
       excerpt: "Ekonomija, Migracije, Data"
