@@ -141,9 +141,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
+    - label: #"Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/konstantin.mutabdzija"
+       #url: "https://www.facebook.com/konstantin.mutabdzija"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/konstantinmds"
