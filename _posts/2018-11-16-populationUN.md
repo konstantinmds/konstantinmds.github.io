@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Demografska tranzicija i globalizacija"
+=======
+title: " Demografska tranzicija i globalizacija I"
+>>>>>>> aa281c16fe7f2e923dccaf759b6e0e540b391058
 date: 2018-11-16
 tags: [domaće teme, demografija]
 header:
@@ -768,4 +772,8 @@ Posljednja ilustracija je UN racio potencijalne pomoći klasi '64+' od strane ra
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_26_1.png" alt="Odnos  1955-2015">
 
+<<<<<<< HEAD
 Ova mjera nije konačna razrada svih implikacija koje nosi. Prvo, ona ne uzima u obzir stalno nezaposlena lica, sa čime BIH ima prilično problema. U tabeli ispod možemo vidjeti varijacije pomenute mjere. Smanjenje ove mjere ima ozbiljne implikacije za finansijske i osiguravajuće šeme, pogotovo za penzioni sistem zasnovan na međugeneracijskoj solidarnosti, kakav je implementiran u BIH. Razrada tog pitanja doći će na red kasnije.
+=======
+Ova mjera nije konačna razrada svih implikacija koje nosi kaj količnik. Prvo, ona ne uzima u obzir stalno nezaposlena lica, sa čime BIH ima ozbiljne probleme, koje treba evidentirati. U tabeli ispod možemo vidjeti varijacije pomenute mjere. Smanjenje ove mjere ima ozbiljne implikacije za finansijske i osiguravajuće šeme, pogotovo za penzioni sistem zasnovan na međugeneracijskoj solidarnosti, kakav je implementiran u BIH. Razrada tog pitanja doći će na red kasnije.
+>>>>>>> aa281c16fe7f2e923dccaf759b6e0e540b391058

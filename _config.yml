@@ -26,17 +26,17 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+comments: 
+  provider               : "facebook" # false (default), "disqus", "discourse", , "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+     # https://developers.facebook.com/docs/plugins/comments
+    appid                : #
+    num_posts            : #5 (default)
+    colorscheme          : #"light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -108,6 +108,7 @@ author:
   email            :
   links:
     - label: "Email"
+<<<<<<< HEAD
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: #
@@ -116,12 +117,26 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       #  url: "https://twitter.com/"
+=======
+       icon: "fas fa-fw fa-envelope-square"
+      # url: 
+    - label: "Linkedin"
+       icon: "fas fa-fw fa-link"
+        url: "https://www.linkedin.com/in/konstantin-mutabdzija-b84458131/"
+    - label: "Twitter"
+       icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+>>>>>>> aa281c16fe7f2e923dccaf759b6e0e540b391058
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+<<<<<<< HEAD
       # url: "https://github.com/konstantinmds"
+=======
+        url: "https://github.com/konstantinmds"
+>>>>>>> aa281c16fe7f2e923dccaf759b6e0e540b391058
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,7 +149,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+       url: "https://www.facebook.com/konstantin.mutabdzija"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/konstantinmds"
@@ -272,7 +287,7 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: production
 
 
 # Defaults
@@ -285,7 +300,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
 
