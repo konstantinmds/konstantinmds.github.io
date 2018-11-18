@@ -5,7 +5,6 @@ date: 2018-11-16
 tags: [demografija, simulacije, Lotka, evolutionary dynamics]
 header:
    image: "images/ethan-weil.jpg"
-      excerpt: "Ekonomija, Migracije, Data"
 ---
 
 
