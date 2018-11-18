@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "Demografska tranzicija i globalizacija I"
-date: 2018-11-16
+title: Demografska tranzicija i globalizacija I
+date: 2018-11-16 GMT+1
 tags: [domaće teme, demografija]
 published: true
 header:
