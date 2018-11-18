@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Konstantin Mutabdžija"
+  name             : "Konstantin Mutabdzija"
   avatar           : "/images/kostabio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ruralni ekonomist u pokušaju da zaključuje iz obilja podataka"
   location         : "Istočno Sarajevo"
@@ -110,18 +110,18 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-   # - label: "Linkedin"
-    #  icon: "fas fa-fw fa-link"
-     #  url: "https://www.linkedin.com/in/konstantin-mutabdzija-b84458131/"
+    - label: #
+      icon: "fas fa-fw fa-link"
+       # url: "https://www.linkedin.com/in/konstantin-mutabdzija-b84458131/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      #  url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-     #  url: "https://github.com/konstantinmds"
+      # url: "https://github.com/konstantinmds"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/konstantinmds"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -291,8 +291,8 @@ defaults:
 
   # _pages
   - scope:
-     path: ""
-     type: pages
-     values:
+      path: ""
+      type: pages
+      values:
         layout: single
         author_profile: true
