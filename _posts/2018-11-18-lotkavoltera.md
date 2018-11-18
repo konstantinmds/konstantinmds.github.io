@@ -1,6 +1,6 @@
 ---
 title: Demografska tranzicija i globalizacija II: Lotka Voltera proba
-date: 2018-11-16
+date: 2018-11-16 GMT+1
 tags: [demografija, simulacije, Lotka, evolutionary dynamics]
 published: true
 header:
