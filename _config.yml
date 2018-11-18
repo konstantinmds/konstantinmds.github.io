@@ -108,7 +108,6 @@ author:
   email            :
   links:
     - label: "Email"
-<<<<<<< HEAD
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: #
@@ -117,26 +116,21 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       #  url: "https://twitter.com/"
-=======
        icon: "fas fa-fw fa-envelope-square"
       # url: 
-    - label: "Linkedin"
+    - label: #
        icon: "fas fa-fw fa-link"
         url: "https://www.linkedin.com/in/konstantin-mutabdzija-b84458131/"
     - label: "Twitter"
        icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
->>>>>>> aa281c16fe7f2e923dccaf759b6e0e540b391058
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-<<<<<<< HEAD
       # url: "https://github.com/konstantinmds"
-=======
-        url: "https://github.com/konstantinmds"
->>>>>>> aa281c16fe7f2e923dccaf759b6e0e540b391058
+       # url: "https://github.com/konstantinmds"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
