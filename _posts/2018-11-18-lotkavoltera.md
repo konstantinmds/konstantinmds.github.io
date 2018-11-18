@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ---
 title: " Demografska tranzicija i globalizacija II: Lotka Voltera proba"
 date: 2018-11-16
@@ -8,7 +6,6 @@ header:
    image: "images/ethan-weil.jpg"
       excerpt: "Ekonomija, Migracije, Data"
 ---
->>>>>>> aa281c16fe7f2e923dccaf759b6e0e540b391058
 
 
 # Lotka-Voltera( grabljivac- žrtva modeli) : igra zečeva i lisica
