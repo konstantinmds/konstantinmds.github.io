@@ -504,8 +504,8 @@ Kao što jedna porodica traži zdrav balans, da je čini muž koji radi, žena k
 
 Prva mjerenja iz 50-ih, kažu, u Bosni i Hercegovini imamo da je 110 zavisnih lica izdržavano od strane 100 radno sposobnih lica. Dvijehiljadepetnaeste, taj broj je pao na 46. __Dakle, danas, radnosposobnih 100 ljudi  izdržava 46 starijih i mladih osoba__ , rekli bismo- breme se olakšalo u odnosu na one koje su nosile prethodne generacije.
 
-Kao što ste svi pretpostavili, takva brojka je posljedica odluke o planiranju manjih porodica ili, konkretno, odluka ili slučja neostavljanja potomstva. Dakle, danas imamo veliki broj stanovnika u radnom vijeku. 
-Spremimo se za prvi veliki zaključak posta:iz neba pa u rebra. BIH ima jako povoljnu starosnu strukturu u ovom trenutku, djece koju treba izdržavati je manje nego ikada a stari obično su zaradili penzije u prošlom velikodušnom sistemu ili onome što je od njega polako odumiralo poslije rata, tako da i oni doprinose odbrtu novca u ekonomiji. Probem je što je aktivno stanovništvo u nemogućnosti da dovoljno zaradi. 
+Kao što ste svi pretpostavili, takva brojka je posljedica odluke o planiranju manjih porodica ili, konkretno, odluka ili slučja neostavljanja potomstva. Danas imamo visok procenat stanovnika u radnom vijeku. 
+Vrijeme je i za prvi veliki zaključak: BIH ima jako povoljnu starosnu strukturu u ovom trenutku, djece koju treba izdržavati je manje nego ikada a stari obično su zaradili penzije u prošlom velikodušnom sistemu ili onome što je od njega polako odumiralo poslije rata, tako da i oni doprinose odbrtu novca u ekonomiji. Tražnja postoji i najlakše je prepoznati u aktivnostima kladionica i kafića. Sjećam se kada je na umanjenu populaciju na Dobrinji 1, otvoreno kroz godinu dana 3 dodatne kladionice u radijusu od dvjesto metara, od kojih sve i danas rade.
 Ovu tabelu ću nekada popraviti. Nisu učitana mjerenja do 2015. godine. Snaćićemo se na grafikonu ispod.
 
 
