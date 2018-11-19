@@ -4,7 +4,7 @@ date: 2018-11-16 GMT+1
 tags: [demografija, simulacije, Lotka, evolutionary dynamics]
 published: true
 header:
-   image: "images/ethan-weil.jpg"
+   image: "images/ray-hennessy.jpg"
 ---
 
 # Lotka-Voltera( grabljivac- žrtva modeli) : igra zečeva i lisica
