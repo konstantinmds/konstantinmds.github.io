@@ -18,7 +18,7 @@ Ova analiza će ići u tri dijela.
 
 ## Demografski problem  
 
-Neka prva tačka bude godina 2015. Krenimo iz nama najbližeg trenutka na koji se možemo osloniti. Krenimo sa najširim demografskim predviđanjima populacije. Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Gornji desni ugao pokazuje godinu predviđanja. Radi se o UN-ovim demografskim projekcijama, tako da u metodološki integritet ocjena ne treba pretjerano sumnjati, iako, ni to nećemo uzimati zdravo za gotovo i biće predmet kasnijih komentara.
+Neka prva tačka bude godina 2015. Krenimo iz nama najbližeg trenutka na koji se možemo osloniti. Krenimo sa najširim demografskim predviđanjima populacije. Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o UN-ovim demografskim projekcijama, tako da u metodološki integritet ocjena ne treba pretjerano sumnjati, iako, ni to nećemo uzimati zdravo za gotovo i biće predmet kasnijih komentara.
 
 
 
