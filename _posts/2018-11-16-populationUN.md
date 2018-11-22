@@ -8,7 +8,7 @@ header:
 ---
    
 # Par modela I
-
+Bosna i Hercegovina, kada nije predmet 
 Često se u društvu našalimo, i dosta kreativno pritom, kako je Istočno Sarajevo na putu da se pretvori u veliki starački dom.
 To je očit utsak, neposredan i snazan. Test očitosti takođe upućuje na pretpostavku da ovaj prostor, naslonjen na glavni grad, ipak sporije gubi stanovništvo odnosu na sjeverne ili krajnje južne dijelove. Jednostavno, više novca je u blizini. Prvi post u seriji- kojom nastojim da napravim skicu budućnosti Bosne i Hercegovine, postvetiću naporu da brojevima i slikama prikažem bitne demografske trendove, uputim na ekonomske posljedice, pa onda ciklično ponavljam do konačnog zaključka. Izborni proces, kojem srećni gledamo u leđa, opet nam je uskratio temeljnije bavljenje posljedicama najbitnijih problema. 
 
