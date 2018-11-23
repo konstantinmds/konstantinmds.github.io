@@ -8,12 +8,9 @@ header:
 ---
    
 # Par modela I
-Bosna i Hercegovina, kada nije predmet 
-Često se u društvu našalimo, i dosta kreativno pritom, kako je Istočno Sarajevo na putu da se pretvori u veliki starački dom.
-To je očit utsak, neposredan i snazan. Test očitosti takođe upućuje na pretpostavku da ovaj prostor, naslonjen na glavni grad, ipak sporije gubi stanovništvo odnosu na sjeverne ili krajnje južne dijelove. Jednostavno, više novca je u blizini. Prvi post u seriji- kojom nastojim da napravim skicu budućnosti Bosne i Hercegovine, postvetiću naporu da brojevima i slikama prikažem bitne demografske trendove, uputim na ekonomske posljedice, pa onda ciklično ponavljam do konačnog zaključka. Izborni proces, kojem srećni gledamo u leđa, opet nam je uskratio temeljnije bavljenje posljedicama najbitnijih problema. 
+Kada bismo najbliže pokušali predstaviti stvarnost postdejtonske Bosne i Hercegovine, a da to ne bude kroz prizmu šala o Muji, mogli bismo se složiti da je to jedan kontinuitet negativnih trendova. Najopasniji od tih trendova je demografski. Takav utisak je očit i pri svakom direktom dodiru. Na jednoj strani emigracija i bježanje iz države koje uzima maha, sa druge strane, negativan prirodni priraštaj. Polako privodi se kraju i proces konsolidacije, premještajući stanovništvo u obližnje gradove, koji protiče uz prilična socijalna i ekonomska trvenja. 
 
-Dakle, opteretiću sebe sa par zadataka pri ovom izlaganju: najvažnijim- da ne budem naporan i nerazumljiv, 
-a bez da zrtvujem preciznost i da bude razumljivo što široj publici. 
+Dakle, opteretiću izlaganje sa par zadataka, medju kojima najvažnijim- da ne budem naporan i nerazumljiv,
 Ova analiza će ići u tri dijela.
 
 ## Demografski problem  
