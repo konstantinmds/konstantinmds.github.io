@@ -16,7 +16,7 @@ Ova analiza će ići u tri dijela.
 ## Demografski problem  
 
 
-=????Geostrateška dimenzija problema je takođe zabrinjavajuća. Ako se ne dogodi čudo, ako prirodni priraštaj stanovništva ostane negativan a emigracioni tokovi se ne promene, Srbija će na svakih pet godina gubiti otprilike onoliko stanovnika koliko ih danas živi u Kragujevcu. Koristeći isto poređenje, Srbija će u narednih 25 godina ostati bez Kragujevca, Niša i Novog Sada, dok će se ogromni nenaseljeni prostori opasno povećavati.
+=????Geostrateška dimenzija problema je takođe zabrinjavajuća. Ako se ne dogodi čudo, ako prirodni priraštaj stanovništva ostane negativan a emigracioni tokovi se ne promene, Srbija će na svakih pet godina gubiti otprilike onoliko stanovnika koliko ih danas živi u Kragujevcu. Koristeći isto poređenje, Srbija će u narednih 25 godina ostati bez Kragujevca, Niša i Novog Sada, dok će se ogromni nenaseljeni prostori opasno povećavati. """"" momenat nije loš ali problem je ocekivanje nisko"""
 
 Verovatnoća da Srbija radikalno promeni dosadašnje trendove je mala. Najsnažniji emigracioni udar je okončan u poslednjih dvadeset godina, a razmere toga su delimično skrivene prilivom izbeglica iz nekadašnje Jugoslavije. Otvaranje Evrope će samo dodatno olakšati nastavljanje emigracionih trendova i pojačati sezonsku emigraciju.
 
