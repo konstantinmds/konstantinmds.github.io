@@ -8,7 +8,7 @@ header:
 ---
    
 # Par modela I
-Kada bismo najbliže pokušali predstaviti stvarnost postdejtonske Bosne i Hercegovine, a da to ne bude kroz prizmu šala o Muji, mogli bismo se složiti da je to jedan kontinuitet negativnih trendova. Najopasniji od tih trendova je demografski. Takav utisak je očit i pri svakom direktom dodiru. Na jednoj strani emigracija i bježanje iz države koje uzima maha, sa druge strane, negativan prirodni priraštaj. Polako privodi se kraju i proces konsolidacije, premještajući stanovništvo u obližnje gradove, koji protiče uz prilična socijalna i ekonomska trvenja. 
+Kada bismo najbliže pokušali predstaviti stvarnost postdejtonske Bosne i Hercegovine, a da to ne bude kroz prizmu šala o Muji, mogli bismo reći da je to jedan kontinuitet negativnih trendova. Najopasniji od tih trendova je demografski. Takav utisak je očit i ne može se sakriti pred direktnim dodirom. Na jednoj strani emigracija i bježanje iz države koje uzima maha, sa druge strane, decenije negativnog prirodnog priraštaja. Mediji i gosti informativnih emisija sve češće obavještavaju javnost o fenomenu ubrzane depopulacije, neki, manje ozbiljni, čak su uspjeli i da obećaju preokret tih vjekovnih trendova- čim dođu na vlast naravno, neobavezni kafanski razgovori nerijetko krenu u tom smjeru i zajedno putuju istom zaključku. Međutim, pored toga što smo generalno svjesni problema i njegove grube dinamike, ostajemo uskraćeni za konkretnije detalje i moguće svjetove posljedica. Ova serija postova je kreirana da pokuša to približiti, da podijeli znanje o društvu. 
 
 Dakle, opteretiću izlaganje sa par zadataka, medju kojima najvažnijim- da ne budem naporan i nerazumljiv,
 Ova analiza će ići u tri dijela.
@@ -21,7 +21,8 @@ Ova analiza će ići u tri dijela.
 Verovatnoća da Srbija radikalno promeni dosadašnje trendove je mala. Najsnažniji emigracioni udar je okončan u poslednjih dvadeset godina, a razmere toga su delimično skrivene prilivom izbeglica iz nekadašnje Jugoslavije. Otvaranje Evrope će samo dodatno olakšati nastavljanje emigracionih trendova i pojačati sezonsku emigraciju.
 
 ========0
-Neka prva tačka bude godina 2015. Krenimo iz nama najbližeg trenutka na koji se možemo osloniti. Krenimo sa najširim demografskim predviđanjima populacije. Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o UN-ovim demografskim projekcijama, tako da u metodološki integritet ocjena ne treba pretjerano sumnjati, iako, ni to nećemo uzimati zdravo za gotovo i biće predmet kasnijih komentara.
+
+Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o srednjem scenariju UN-ovog demografskog predviđanja. 
 
 
 
@@ -29,10 +30,10 @@ Neka prva tačka bude godina 2015. Krenimo iz nama najbližeg trenutka na koji s
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_4_1.png" alt="Populacija prema starosnim grupama">
 
 
-Iako nije lako, pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Pogledajte kako se se smanjuje stubić '15-19' i '20-24' iz 2015 u 2025. godini. Dvijehiljade su godine u kojima se stopa rađanja prilično umanjima.
+Pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Vidite kako svako 10 godina dva dodatna lijeva stubića izgube značajno supstancu. Zato nije dovoljno uputiti na agregatni neto gubitak stanovništva, mladi nestaju puno brže, dok broj starijih ostaje konstantan. 
 
-Oprostite za suhoparnost, ovakvi trenutci će dolaziti iznova, radi pojednostavljenja poente grafika, ispod prilažem jasnu tabelu, prva kolona  je godina'2015', a raspored stanovnika po starosnim grupama su u redovima. Dakle, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. 
-Koliko li je to potencijalnih brakova manje ? Ili djece ? Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti. 2025 je relevantna i nama bitna, ova dalja budućnost je samo usput.
+Radi pojednostavljenja poente grafika, ispod prilažem jasnu tabelu, prva kolona  je godina'2015', a raspored stanovnika po starosnim grupama su u redovima. Dakle, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. 
+Koliko li je to potencijalnih brakova manje ? Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
 
 
 
@@ -183,6 +184,8 @@ Koliko li je to potencijalnih brakova manje ? Ili djece ? Zagledajte se u tabelu
   </tbody>
 </table>
 </div>
+
+Obzirom da je predivđanje populacije nekog prostora stvar vjerovatnoće, UN projekcije nude, osim srednje vjerovatnoće(koju smo prikazali), između ostalih:  varijantu nižeg rasta, višeg rasta, i projektovanu populaciju sa nultom stopom migracije.
 
 
 
