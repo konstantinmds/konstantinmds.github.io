@@ -8,9 +8,9 @@ header:
 ---
    
 # Par modela I
-Kada bismo najbliže pokušali predstaviti stvarnost postdejtonske Bosne i Hercegovine, a da to ne bude kroz prizmu šala o Muji, mogli bismo reći da je to jedan kontinuitet negativnih trendova. Najopasniji od tih trendova je demografski. Takav utisak je očit i ne može se sakriti pred direktnim dodirom. Na jednoj strani emigracija i bježanje iz države koje uzima maha, sa druge strane, decenije negativnog prirodnog priraštaja. Mediji i gosti informativnih emisija sve češće obavještavaju javnost o fenomenu ubrzane depopulacije, neki, manje ozbiljni, čak su uspjeli i da obećaju preokret tih vjekovnih trendova- čim dođu na vlast naravno, neobavezni kafanski razgovori nerijetko krenu u tom smjeru i zajedno putuju istom zaključku. Međutim, pored toga što smo generalno svjesni problema i njegove grube dinamike, ostajemo uskraćeni za konkretnije detalje i moguće svjetove posljedica. Ova serija postova je kreirana da pokuša to približiti, da podijeli znanje o društvu. 
+Kada bismo najbliže pokušali predstaviti stvarnost Bosne i Hercegovine, a dane koristimo šale o Muji, mogli bismo reći da je to jedan kontinuitet negativnih trendova. Najočitiji i najopasniji od tih trendova je demografski. Na jednoj strani, emigracija i bježanje iz države, sa druge strane, decenije negativnog prirodnog priraštaja. Mediji i gosti informativnih emisija sve češće obavještavaju javnost o fenomenu ubrzane depopulacije, neki, manje ozbiljni, čak su uspjeli i da obećaju preokret tih vjekovnih trendova- čim dođu na vlast naravno, neobavezni kafanski razgovori nerijetko krenu u tom smjeru i zajedno putuju istom pesimisitičnom zaključku. Međutim, pored toga što smo generalno svjesni problema i njegove grube dinamike, ostajemo uskraćeni za konkretnije detalje i moguće svjetove posljedica. Ova serija postova je kreirana da pokuša to približiti, da podijeli znanje o društvu. 
 
-Dakle, opteretiću izlaganje sa par zadataka, medju kojima najvažnijim- da ne budem naporan i nerazumljiv,
+Dakle, opteretiću izlaganje sa par zadataka, medju kojima najvažnijim- da ne budem naporan i nerazumljiv.
 Ova analiza će ići u tri dijela.
 
 ## Demografski problem  
@@ -25,15 +25,13 @@ Verovatnoća da Srbija radikalno promeni dosadašnje trendove je mala. Najsnažn
 Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o srednjem scenariju UN-ovog demografskog predviđanja. 
 
 
-
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_4_1.png" alt="Populacija prema starosnim grupama">
 
 
-Pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Vidite kako svako 10 godina dva dodatna lijeva stubića izgube značajno supstancu. Zato nije dovoljno uputiti na agregatni neto gubitak stanovništva, mladi nestaju puno brže, dok broj starijih ostaje konstantan. 
+Pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Vidite kako svako 10 godina dva dodatna lijeva stubića izgube značajno supstancu. Zato nije dovoljno uputiti na agregatni neto gubitak stanovništva, populacija se ne obnavlja na prethodnoj brojnosti, a broj starijih ostaje konstantan. 
 
-Radi pojednostavljenja poente grafika, ispod prilažem jasnu tabelu, prva kolona  je godina'2015', a raspored stanovnika po starosnim grupama su u redovima. Dakle, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. 
-Koliko li je to potencijalnih brakova manje ? Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
+Radi pojednostavljenja poente grafika, ispod prilažem jasnu tabelu, prva kolona  je godina'2015', a raspored stanovnika po starosnim grupama su u redovima. Dakle, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. To je dovođenje u vezu odnosa rodjenih, ugrubo, u periodu rata '91-95', koji su  2015. godine imali '20 do 24' godina, i onih rođenih 10 godina kasnije izmedju '2000 i 05'. Godine rata budile su nadu da će se ekonomska dimenzija života vratiti na staro, i planirali su porodicu u skladu sa svojim potrebama i procijenjenim mogućostima. Deset godina kasnije, ljudi su znatno manje vjerovali u bolje sutra. 
+Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
 
 
 
@@ -185,8 +183,15 @@ Koliko li je to potencijalnih brakova manje ? Zagledajte se u tabelu procjenjene
 </table>
 </div>
 
-Obzirom da je predivđanje populacije nekog prostora stvar vjerovatnoće, UN projekcije nude, osim srednje vjerovatnoće(koju smo prikazali), između ostalih:  varijantu nižeg rasta, višeg rasta, i projektovanu populaciju sa nultom stopom migracije.
+Obzirom da je predivđanje populacije nekog prostora stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju), projekcije Ujedinjenih nacija nude, osim srednje vjerovatnoće(koju smo prikazali), između ostalih kojima ćemo se baviti:  varijantu nižeg rasta i višeg rasta. 
+</br>
+Pod varijantom višeg rasta podrazumjeva se uvećanje srednje projektovane fertilnosti za 0.5, odnosno, pretpostavlja se da će u budućnosti biti pola djeteta po ženi rađano u prosjeku. 
 
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_replacement.png" alt=" vrijednosti 2015-2045">
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_facet.png" alt=" vrijednosti 2015-2045">
 
 
 Sljedeći grafik, možda i nije najsrećnije rješenje za ono što nastojim pokazati. Ovo 'ispravljanje' i 'uvećavanje' vrha, odnosi se na biološko nestanje generacije 'bejbi bumersa'(generacije rođene između '1946' i '1964'), i posljedično poravnanje populacijske piramide, odnosno ujednačenja brojnosti populacije po pojedinačnim starosnim grupama. Dakle, nekada se brojnost mladih, brojnost ljudi u zrelim godinama, brojnost starijih prilično dosta razlikovala. I ona svoju srednju vrijednost vremenom pomjera ulijevo, prema manjem broju. 
