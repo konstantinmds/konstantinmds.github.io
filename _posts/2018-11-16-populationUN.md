@@ -176,7 +176,8 @@ Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
 </table>
 </div>
 
-  ## Projekcije broja radjanja po ženi
+
+## Projekcije broja radjanja po ženi
     
 Predivđanje populacije nekog prostora je stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju). Projekcije Ujedinjenih nacija nude, osim srednje vjerovatnoće, najvjerovatnijeg scenarija(koju smo prikazali), i  varijantu nižeg rasta te varijantu višeg rasta. 
 
@@ -193,7 +194,7 @@ Evo kako bi izgledali rezultati brojnosti djece u 2025. u tri scenarija:
 
 
 
- # Populaciona piramida 
+## Populaciona piramida 
 Sljedeći grafik, možda i nije najsrećnije rješenje za ono što nastojim pokazati. Ovo 'ispravljanje' i 'uvećavanje' vrha, odnosi se na biološko nestanje generacije 'bejbi bumersa'(generacije rođene između '1946' i '1964'), i posljedično poravnanje populacijske piramide, odnosno ujednačenja brojnosti populacije po pojedinačnim starosnim grupama. Dakle, nekada se brojnost mladih, brojnost ljudi u zrelim godinama, brojnost starijih prilično dosta razlikovala. I ona svoju srednju vrijednost vremenom pomjera ulijevo, prema manjem broju. 
 
 
