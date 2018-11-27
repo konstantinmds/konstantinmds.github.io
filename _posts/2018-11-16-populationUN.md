@@ -191,6 +191,8 @@ Evo kako bi izgledali rezultati brojnosti djece u 2025. u tri scenarija:
 (
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_facet.png" alt=" vrijednosti 2015-2045">
 
+
+
  # Populaciona piramida 
 Sljedeći grafik, možda i nije najsrećnije rješenje za ono što nastojim pokazati. Ovo 'ispravljanje' i 'uvećavanje' vrha, odnosi se na biološko nestanje generacije 'bejbi bumersa'(generacije rođene između '1946' i '1964'), i posljedično poravnanje populacijske piramide, odnosno ujednačenja brojnosti populacije po pojedinačnim starosnim grupama. Dakle, nekada se brojnost mladih, brojnost ljudi u zrelim godinama, brojnost starijih prilično dosta razlikovala. I ona svoju srednju vrijednost vremenom pomjera ulijevo, prema manjem broju. 
 
