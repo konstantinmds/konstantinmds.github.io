@@ -182,18 +182,21 @@ Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
   </tbody>
 </table>
 </div>
+  # Projekcije broja radjanja po ženi
+    
+Predivđanje populacije nekog prostora je i stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju). Projekcije Ujedinjenih nacija nude, osim srednje vjerovatnoće(koju smo prikazali), između ostalih kojima ćemo se baviti:  varijantu nižeg rasta i višeg rasta. 
 
-Obzirom da je predivđanje populacije nekog prostora stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju), projekcije Ujedinjenih nacija nude, osim srednje vjerovatnoće(koju smo prikazali), između ostalih kojima ćemo se baviti:  varijantu nižeg rasta i višeg rasta. 
-</br>
-Pod varijantom višeg rasta podrazumjeva se uvećanje srednje projektovane fertilnosti za 0.5, odnosno, pretpostavlja se da će u budućnosti biti pola djeteta po ženi rađano u prosjeku. 
+Pod varijantom višeg rasta podrazumjeva se uvećanje srednje projektovane fertilnosti za 0.5, odnosno, pretpostavlja se da će u budućnosti po žene rađati u više za 0.5 djece u prosjeku. Niži rast podrazumjeva umanjenje srednjeg nivoa za istu vrijednost.
+Slika ispod pokazuje kako se kretao broj rađanja po ženi, račvanja u godini 2015 predstavlja te tri varijante :visoki, srednji i nizak rast. Ravna isprekidana linija stope proste reprodukcije predstavlja broj radjanja potreban da bi se održao postojeći broj stanovnika, ta brojka je 2.1 djece po ženi ( dakle, od dva roditelja da ostane dvoje djece).
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_replacement.png" alt=" vrijednosti 2015-2045">
 
+Evo kako bi se povećala brojnost djece u 2025. sa povećanim stopama: 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_facet.png" alt=" vrijednosti 2015-2045">
 
-
+ # Populaciona piramida 
 Sljedeći grafik, možda i nije najsrećnije rješenje za ono što nastojim pokazati. Ovo 'ispravljanje' i 'uvećavanje' vrha, odnosi se na biološko nestanje generacije 'bejbi bumersa'(generacije rođene između '1946' i '1964'), i posljedično poravnanje populacijske piramide, odnosno ujednačenja brojnosti populacije po pojedinačnim starosnim grupama. Dakle, nekada se brojnost mladih, brojnost ljudi u zrelim godinama, brojnost starijih prilično dosta razlikovala. I ona svoju srednju vrijednost vremenom pomjera ulijevo, prema manjem broju. 
 
 
