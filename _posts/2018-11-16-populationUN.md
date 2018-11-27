@@ -8,22 +8,22 @@ header:
 ---
    
 # Par modela I
-Kada bismo najbliže pokušali predstaviti stvarnost Bosne i Hercegovine, a dane koristimo šale o Muji, mogli bismo reći da je to jedan kontinuitet negativnih trendova. Najočitiji i najopasniji od tih trendova je demografski. Na jednoj strani, emigracija i bježanje iz države, sa druge strane, decenije negativnog prirodnog priraštaja. Mediji i gosti informativnih emisija sve češće obavještavaju javnost o fenomenu ubrzane depopulacije, neki, manje ozbiljni, čak su uspjeli i da obećaju preokret tih vjekovnih trendova- čim dođu na vlast naravno, neobavezni kafanski razgovori nerijetko krenu u tom smjeru i zajedno putuju istom pesimisitičnom zaključku. Međutim, pored toga što smo generalno svjesni problema i njegove grube dinamike, ostajemo uskraćeni za konkretnije detalje i moguće svjetove posljedica. Ova serija postova je kreirana da pokuša to približiti, da podijeli znanje o društvu. 
+Stvarnost Bosne i Hercegovine, to je zbir negativnih trendova. Najočitiji i najopasniji od njih je demografski. Na jednoj strani, kontinuirana emigracija i bukvalno bježanje iz države, sa druge strane, decenije negativnog prirodnog priraštaja. Mediji i gosti informativnih emisija sve češće obavještavaju javnost o fenomenu ubrzane depopulacije, neki, manje ozbiljni, čak su uspjeli i da obećaju preokret tih vjekovnih trendova- čim dođu na vlast naravno, neobavezni kafanski razgovori nerijetko krenu u tom smjeru i zajedno putuju istom pesimisitičnom zaključku. Međutim, pored toga što smo generalno svjesni problema i njegove grube dinamike, ostajemo uskraćeni za konkretnije detalje i moguće svjetove posljedica. Ova serija postova je kreirana da pokuša to približiti, da podijeli znanje o društvu. 
 
-Dakle, opteretiću izlaganje sa par zadataka, medju kojima najvažnijim- da ne budem naporan i nerazumljiv.
+Opteretiću izlaganje sa par zadataka, medju kojima najvažnijim- da ne budem naporan i nerazumljiv.
 Ova analiza će ići u tri dijela.
 
 ## Demografski problem  
 
-Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o srednjem scenariju UN-ovog demografskog predviđanja. 
+Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o ilustraciji najvjerovatnije projekcije podataka Ujedinjenih nacija. 
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_4_1.png" alt="Populacija prema starosnim grupama">
 
 
-Pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Vidite kako svako 10 godina dva dodatna lijeva stubića izgube značajno supstancu. Zato nije dovoljno uputiti na agregatni neto gubitak stanovništva, populacija se ne obnavlja na prethodnoj brojnosti, a broj starijih ostaje konstantan. 
+Pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Vidite kako svako 10 godina dva dodatna lijeva stubića značajno izgube supstancu. Zato nije dovoljno uputiti na agregatni neto gubitak stanovništva, populacija se ne obnavlja na prethodnoj brojnosti, a broj starijih ostaje konstantan. 
 
-Radi pojednostavljenja poente grafika, ispod prilažem jasnu tabelu, prva kolona  je godina'2015', a raspored stanovnika po starosnim grupama su u redovima. Dakle, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. To je dovođenje u vezu odnosa rodjenih, ugrubo, u periodu rata '91-95', koji su  2015. godine imali '20 do 24' godina, i onih rođenih 10 godina kasnije izmedju '2000 i 05'. Godine rata budile su nadu da će se ekonomska dimenzija života vratiti na staro, i planirali su porodicu u skladu sa svojim potrebama i procijenjenim mogućostima. Deset godina kasnije, ljudi su znatno manje vjerovali u bolje sutra. 
+Radi pojednostavljenja poente grafika, ispod prilažem jasnu tabelu, prva kolona  je godina'2015', a raspored stanovnika po starosnim grupama su u redovima. Planiranje porodice je sociološki fenomen. Uvjerenje o optimalnoj porodici, optimalnoj starosti za brak ili broju potomaka po domaćinstvu je uvelike naslijedjeno od od predaka, i otuda globalna tendencija tog pokazatelja da se sporo mijenja. Drugi niz faktora koji utiču na planiranje brojnosti porodice jesu ekonomski. Počeci rata čuvali su u sjećanju staru sliku robusnog sistema stabilne države i  budile su nadu da će se ekonomska dimenzija života vratiti na staro. Porodicu su planirali u skladu sa svojim potrebama i procijenjenim mogućostima. Tako objašnjavam rezultate tabele da, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. To je dovođenje u vezu odnosa rodjenih, ugrubo, u periodu rata '91-95', koji su  2015. godine imali '20 do 24' godina, i onih rođenih 10 godina kasnije izmedju '2000 i 05', koje će u grupi '20-24 godina' biti 2025. godine. Deset godina kasnije, ljudi su znatno manje vjerovali u bolje sutra. 
 Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
 
 
@@ -175,18 +175,20 @@ Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
   </tbody>
 </table>
 </div>
-  # Projekcije broja radjanja po ženi
-    
-Predivđanje populacije nekog prostora je i stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju). Projekcije Ujedinjenih nacija nude, osim srednje vjerovatnoće(koju smo prikazali), između ostalih kojima ćemo se baviti:  varijantu nižeg rasta i višeg rasta. 
 
-Pod varijantom višeg rasta podrazumjeva se uvećanje srednje projektovane fertilnosti za 0.5, odnosno, pretpostavlja se da će u budućnosti po žene rađati u više za 0.5 djece u prosjeku. Niži rast podrazumjeva umanjenje srednjeg nivoa za istu vrijednost.
+  ## Projekcije broja radjanja po ženi
+    
+Predivđanje populacije nekog prostora je stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju). Projekcije Ujedinjenih nacija nude, osim srednje vjerovatnoće, najvjerovatnijeg scenarija(koju smo prikazali), i  varijantu nižeg rasta te varijantu višeg rasta. 
+
 Slika ispod pokazuje kako se kretao broj rađanja po ženi, račvanja u godini 2015 predstavlja te tri varijante :visoki, srednji i nizak rast. Ravna isprekidana linija stope proste reprodukcije predstavlja broj radjanja potreban da bi se održao postojeći broj stanovnika, ta brojka je 2.1 djece po ženi ( dakle, od dva roditelja da ostane dvoje djece).
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_replacement.png" alt=" vrijednosti 2015-2045">
 
-Evo kako bi se povećala brojnost djece u 2025. sa povećanim stopama: 
+Pod varijantom višeg rasta podrazumjeva se rezultat nastao pretpostavkom da srednju projektovanu fertilnost uvećamo za za 0.5, odnosno, da pretpostavimo da će u budućnosti žene rađati više za 0.5 djece u prosjeku. Niži rast podrazumjeva umanjenje srednjeg nivoa za istu vrijednost.
 
+Evo kako bi izgledali rezultati brojnosti djece u 2025. u tri scenarija:
+(
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_facet.png" alt=" vrijednosti 2015-2045">
 
  # Populaciona piramida 
