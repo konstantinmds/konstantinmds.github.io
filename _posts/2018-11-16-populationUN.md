@@ -189,7 +189,8 @@ Slika ispod pokazuje kako se kretao broj rađanja po ženi, račvanja u godini 2
 Pod varijantom višeg rasta podrazumjeva se rezultat nastao pretpostavkom da srednju projektovanu fertilnost uvećamo za za 0.5, odnosno, da pretpostavimo da će u budućnosti žene rađati više za 0.5 djece u prosjeku. Niži rast podrazumjeva umanjenje srednjeg nivoa za istu vrijednost.
 
 Evo kako bi izgledali rezultati brojnosti djece u 2025. u tri scenarija:
-(
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_facet.png" alt=" vrijednosti 2015-2045">
 
 
