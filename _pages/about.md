@@ -6,5 +6,4 @@ header:
     image: "/images/jose-moreno.jpg"
 ---
 
-
-Prolaznik zainteresovan za budućnost BiH. Volim da prestavaljam stvari kroz slike.
+Mislim da je bolje koristiti linux. 
