@@ -8,14 +8,14 @@ header:
 ---
    
 # Par modela I
-Stvarnost Bosne i Hercegovine, to je zbir negativnih trendova. Uznemirenost javnih krugova povodom tih pitanja, godinama unazad, djelovala je kao debatna, formalna, nijema buka kapituliranja pred silama jačim od sebe. Drugačije signale primjećujem dada je riječ o sve aktuelnijoj, rastućoj svijesti o trošenju supstance koja se nalazi u osnovi nacionalne države. Radi se o demografskom trendu. Na jednoj strani, kontinuirana emigracija i bukvalno bježanje iz države, sa druge strane, decenije negativnog prirodnog priraštaja. Mediji i gosti informativnih emisija sve češće obavještavaju javnost o fenomenu ubrzane depopulacije, neki, manje ozbiljni, čak su uspjeli i da obećaju preokret tih vjekovnih trendova- čim dođu na vlast, naravno. Neobavezni kafanski razgovori nerijetko krenu u tom smjeru i zajedno putuju istom pesimisitičnom zaključku. Međutim, pored toga što smo generalno svjesni problema i njegove grube dinamike, ostajemo uskraćeni za konkretnije detalje i moguće svjetove posljedica. Skoro sam uhvatio i na zabranjenom forumu istu temu, razni analitičari na sve strane sa ozbiljnim zaključcima, jedna gospođa pobjedonosno je zaključila da je rješenje problema kreiranje strategije. Pa rekoh da probam i ja napisati nešto. Ova serija postova je kreirana da pokuša približiti strukturirati i odgovoriti na skup pitanja oko problema odlaska, da podijeli znanje o društvu. 
+Koncipirati stvarnost i zamisliti budućnost Bosne i Hercegovine, za mene, značilo bi osvijestiti tu rezultantu zbira negativnih trendova. Uznemirenost javnih krugova povodom velikih pitanja- neugodnih socijalnih i ekonomskih trvenja, godinama unazad, djelovala je kao debatna, formalna, nijema buka kapitulacije pred silama jačim od sebe. Drugačije signale primjećujem kada je riječ o sve aktuelnijoj, rastućoj svijesti o trošenju supstance koja se nalazi u osnovi nacionalne države. Radi se o demografskom trendu. Na jednoj strani, kontinuirana emigracija i bukvalno bježanje iz države, sa druge strane, decenije negativnog prirodnog priraštaja. Mediji i gosti informativnih emisija sve češće obavještavaju javnost o fenomenu ubrzane depopulacije. Neki, manje ozbiljni, čak su uspjeli i da obećaju preokret tih vjekovnih trendova- čim dođu na vlast, naravno. Neobavezni kafanski razgovori nerijetko krenu u tom smjeru i zajedno putuju istom pesimisitičnom zaključku. Međutim, pored toga što smo generalno svjesni problema i njegove grube dinamike, ostajemo uskraćeni za konkretnije detalje i moguće svjetove posljedica. Skoro sam uhvatio i na zabranjenom forumu istu temu, razni analitičari na sve strane sa ozbiljnim zaključcima, jedna gospođa čak je pobjedonosno zaključila da je rješenje problema kreiranje strategije. Pa rekoh da probam i ja napisati nešto. Ova serija postova je kreirana da pokuša približiti strukturirati i odgovoriti na skup pitanja oko problema odlaska, da podijeli znanje o društvu. 
 
 Opteretiću izlaganje sa par zadataka, medju kojima najvažnijim- da ne budem naporan i nerazumljiv.
 Ova analiza će ići u tri dijela.
 
 ## Demografski problem  
 
-Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o ilustraciji najvjerovatnije projekcije podataka Ujedinjenih nacija. 
+Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o ilustraciji najvjerovatnije (srednje) projekcije podataka Ujedinjenih nacija. 
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_4_1.png" alt="Populacija prema starosnim grupama">
@@ -179,11 +179,11 @@ Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
 </div>
 
 
-Radjamo se u okovima, planiranje porodice je sociološki fenomen. Uvjerenje o optimalnoj porodici, optimalnoj starosti za brak ili broju potomaka po domaćinstvu je uvelike naslijedjeno od navike predaka, otuda tendencija tog pokazatelja da se sporo mijenja. Drugi niz faktora koji utiču na planiranje brojnosti porodice jesu ekonomski, predviđa se ekonomska održivost porodice. Počeci rata čuvali su u sjećanju staru sliku robusnog sistema stabilne države i  budile su nadu da će se ekonomska dimenzija života vratiti na staro. Porodicu su planirali u skladu sa svojim potrebama i procijenjenim mogućostima. Tako objašnjavam rezultate tabele da, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. To je dovođenje u vezu odnosa rodjenih, ugrubo, u periodu rata '91-95', koji su  2015. godine imali '20 do 24' godina, i onih rođenih 10 godina kasnije izmedju '2000 i 05', koje će u grupi '20-24 godina' biti 2025. godine. Deset godina kasnije, ljudi nisu lako povjerovali u mogućnost boljeg sutra. 
+Planiranje porodice rijetko je svjesna odluka pojedinca, uvijek je prije sociološki fenomen. Uvjerenje o optimalnoj porodici, optimalnoj starosti za brak ili broju potomaka po domaćinstvu je uvelike naslijedjeno od navike predaka, otuda tendencija tog pokazatelja da se sporo mijenja. Drugi niz faktora koji utiču na planiranje brojnosti porodice jesu ekonomski. Počeci rata čuvali su u sjećanju staru sliku robusnog sistema stabilne države i  budile nadu da će se ekonomska dimenzija života vratiti na staro. Porodicu su planirali u skladu sa svojim potrebama i procijenjenim mogućostima. Tako objašnjavam rezultate tabele da, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. To je dovođenje u vezu odnosa rodjenih, ugrubo, u periodu rata '91-95', koji su  2015. godine imali '20 do 24' godina, i onih rođenih 10 godina kasnije izmedju '2000 i 05', koje će u grupi '20-24 godina' biti 2025. godine. Deset godina kasnije, ljudi nisu lako povjerovali u mogućnost boljeg sutra. 
 
 ## Projekcije broja radjanja po ženi
     
-Predivđanje populacije nekog prostora je stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju). Projekcije Ujedinjenih nacija nude, osim srednje vjerovatnoće, najvjerovatnijeg scenarija(koju smo prikazali), i  varijantu nižeg rasta te varijantu višeg rasta. 
+Predivđanje populacije nekog prostora je stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju). Projekcije Ujedinjenih nacija, osim scenarija najveće vjerovatnoće(koju smo ilustrovali), nude i  varijantu nižeg i varijantu višeg rasta. 
 
 Slika ispod pokazuje kako se kretao broj rađanja po ženi, račvanja u godini 2015 predstavlja te tri varijante: visoki, srednji i nizak rast. Ravna isprekidana linija stope proste reprodukcije predstavlja broj radjanja potreban da bi se održao postojeći broj stanovnika, ta brojka je 2.1 djece po ženi ( dakle, od dva roditelja da ostane dvoje djece).
 
@@ -200,6 +200,7 @@ Evo kako bi izgledali rezultati brojnosti djece u 2025. u tri scenarija ( plava 
 
 
 ## Populaciona piramida 
+
 Sljedeći grafik možda i nije najsrećnije rješenje za ono što nastojim pokazati. Ovo 'ispravljanje' i 'uvećavanje' vrha, odnosi se na biološko nestanje generacije 'bejbi bumersa'(generacije rođene između '1946' i '1964'), i posljedično poravnanje populacijske piramide, odnosno ujednačenja brojnosti populacije po pojedinačnim starosnim grupama. Dakle, nekada se brojnost mladih, brojnost ljudi u zrelim godinama, brojnost starijih prilično dosta razlikovala. I ona svoju srednju vrijednost vremenom pomjera ulijevo, prema manjem broju, i sličnije su po brojnosti. 
 
 
@@ -520,96 +521,17 @@ U stvari to je - udio zbira osoba starosti '0-19' i '65+', koje se smatraju neak
 
 Kao što jedna porodica traži zdrav balans, da je čini muž koji radi, žena koja radi i eto, troje djece- zavisnih članova i stara baka sa penzijom dovoljnom za lijekove. Slabije balansirana porodica je jedan muž sa prosječnom BiH platom, dvije babe i petoro djece. Puno članova koje zavise od produktivnog člana domaćinstva. Moj smisao za analogiju je banalan, valjda će se popraviti sa daljim radom oko bloga. Sljedeća tabela bira najrazličitije zemlje i vidi se da sve kreću sa sličnih pozicija i dolaze u slične pozicije.
 
-Prva mjerenja iz 50-ih, kažu, u Bosni i Hercegovini imamo da je 110 zavisnih lica izdržavano od strane 100 radno sposobnih lica. Dvijehiljadepetnaeste, taj broj je pao na 46. __Dakle, danas, radnosposobnih 100 ljudi  izdržava 46 starijih i mladih osoba__. Takav odnos sam po sebi nije problematičan, njemačka je prije 30 godina imala takav odnos i ono što je loše nijemjera nego njena tendencija.
+Prva mjerenja iz 50-ih, kažu, u Bosni i Hercegovini imamo da je 110 zavisnih lica izdržavano od strane 100 radno sposobnih lica. Dvijehiljadepetnaeste, taj broj je pao na 46. __Dakle, danas, radnosposobnih 100 ljudi  izdržava 46 starijih i mladih osoba__. Takav odnos sam po sebi nije problematičan, kada bi samo rad kao sirovina bio problem.
 
 Kao što ste svi pretpostavili, razlike između starijih mladih su se proširivale, a odnos o kojem govorimo je stagnirao na račun odluke o planiranju manjih porodica ili, konkretno, odluka ili slučaja neostavljanja potomstva. Danas imamo visok procenat stanovnika u radnom vijeku. 
-Vrijeme je i za prvi zaključak: BIH ima povoljnu starosnu strukturu u ovom trenutku, povoljniju neće imati, djece koju treba izdržavati je manje nego ikada a stari obično su zaradili pravo na penziju, kakvu takvu, u prošlom velikodušnom sistemu ili onome što je od njega polako odumiralo poslije rata, tako da i oni doprinose odbrtu novca u ekonomiji. Tražnja postoji i najlakše je prepoznati u aktivnostima kladionica i kafića, problem je sistemski zašto je ona decenijama nedisciplinovana i do kada će ostati takva. Sjećam se kada je na umanjenu populaciju na Dobrinji 1, otvoreno kroz godinu dana 3 dodatne kladionice u radijusu od dvjesto metara, od kojih sve i danas rade. Problem nisu kvantiteti već suptilnije mjere. Uticaj perspektivnog člana društva nije linearan. 
-Tabela nije dobro učitana, fale mjerenja do 2015. godine. Snaćićemo se na grafikonu ispod.
+Vrijeme je i za prvi zaključak: BIH ima povoljnu starosnu strukturu u ovom trenutku, povoljniju neće imati, djece koju treba izdržavati je manje nego ikada a stari obično su zaradili pravo na penziju, kakvu takvu, u prošlom velikodušnom sistemu ili onome što je od njega polako odumiralo poslije rata, tako da i oni doprinose odbrtu novca u ekonomiji. Tražnja postoji i najlakše je prepoznati u aktivnostima kladionica i kafića, problem je sistemski zašto je ona decenijama nedisciplinovana i do kada će ostati takva. Sjećam se kada je na umanjenu populaciju na Dobrinji 1, otvoreno kroz godinu dana 3 dodatne kladionice u radijusu od dvjesto metara, od kojih sve i danas rade. Problem nisu kvantiteti već suptilnije mjere. Uticaj mogućeg člana društva nije linearan. 
 
-
-
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Region</th>
-      <th>index</th>
-      <th>China</th>
-      <th>Japan</th>
-      <th>Slovakia</th>
-      <th>Bosnia and Herzegovina</th>
-      <th>Serbia</th>
-      <th>Germany</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1950</td>
-      <td>83.992072</td>
-      <td>93.818651</td>
-      <td>71.694814</td>
-      <td>110.745311</td>
-      <td>76.696108</td>
-      <td>57.018900</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>1955</td>
-      <td>93.503465</td>
-      <td>86.268174</td>
-      <td>73.722059</td>
-      <td>100.994806</td>
-      <td>72.226668</td>
-      <td>56.754277</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>1960</td>
-      <td>98.553843</td>
-      <td>77.243792</td>
-      <td>76.950973</td>
-      <td>93.682514</td>
-      <td>69.512845</td>
-      <td>55.166870</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>1965</td>
-      <td>108.766967</td>
-      <td>68.019927</td>
-      <td>76.762859</td>
-      <td>96.868383</td>
-      <td>70.022605</td>
-      <td>58.077026</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-Od godine '1955' pratimo grafik do '2015' godine. Svršetkom drugog svetskog rata, BIH je krenula u proces takozvane 'demografske tranzicije' sa nadprosječno visokim udjelom mladih '0-14' godina starosti u odnosu na brojnost aktivnog dijela populacije. Svi se sjećamo tih priča o velikim dvadesetočlanim porodicama iz cijele Bosne i svakako Hercegovine. Otac radnik uz podršku porodice obično je bio sposoban da ih sve izvede na pravi put. Ovdje sada stavljam tačku, neka svi razmisle za sebe. Još jedna mjera u prvom dijelu. 
-
+Od godine '1955' pratimo grafik do '2015' godine. Svršetkom drugog svetskog rata, BIH je krenula u proces takozvane 'demografske tranzicije' sa nadprosječno visokim udjelom mladih '0-14' godina starosti u odnosu na brojnost aktivnog dijela populacije. Svi se sjećamo tih priča o velikim dvadesetočlanim porodicama iz cijele Bosne i svakako Hercegovine. Otac radnik uz podršku porodice obično je bio sposoban da ih sve izvede na pravi put. Ovdje sada stavljam tačku, neka svi razmisle za sebe.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_22_1.png" alt="Odnos  1955-2015">
+ 
+
+
 
 
 
