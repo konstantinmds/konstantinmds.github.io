@@ -15,7 +15,7 @@ Ova analiza će ići u tri dijela.
 
 ## Demografski problem  
 
-Slika ispod pokazuje projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o ilustraciji najvjerovatnije (srednje) projekcije podataka Ujedinjenih nacija. 
+Slika ispod pokazuje srednju projektovanu starost populacije Bosne i Hercegovine prema starosnim grupama. Na vrhu, prvom redu, prikazana je godina koju smo već prošli, dvije hiljade petnaesta, gornji desni ugao pokazuje godinu predviđanja. Radi se o ilustraciji najvjerovatnije (srednje) projekcije podataka Ujedinjenih nacija. 
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/output_4_1.png" alt="Populacija prema starosnim grupama">
@@ -179,11 +179,11 @@ Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
 </div>
 
 
-Planiranje porodice rijetko je svjesna odluka pojedinca, uvijek je prije sociološki fenomen. Uvjerenje o optimalnoj porodici, optimalnoj starosti za brak ili broju potomaka po domaćinstvu je uvelike naslijedjeno od navike predaka, otuda tendencija tog pokazatelja da se sporo mijenja. Drugi niz faktora koji utiču na planiranje brojnosti porodice jesu ekonomski. Počeci rata čuvali su u sjećanju staru sliku robusnog sistema stabilne države i  budile nadu da će se ekonomska dimenzija života vratiti na staro. Porodicu su planirali u skladu sa svojim potrebama i procijenjenim mogućostima. Tako objašnjavam rezultate tabele da, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. To je dovođenje u vezu odnosa rodjenih, ugrubo, u periodu rata '91-95', koji su  2015. godine imali '20 do 24' godina, i onih rođenih 10 godina kasnije izmedju '2000 i 05', koje će u grupi '20-24 godina' biti 2025. godine. Deset godina kasnije, ljudi nisu lako povjerovali u mogućnost boljeg sutra. 
+ Drugi niz faktora koji utiču na planiranje brojnosti porodice jesu ekonomski. Počeci rata čuvali su u sjećanju staru sliku robusnog sistema stabilne države i  budile nadu da će se ekonomska dimenzija života vratiti na staro. Porodicu su planirali u skladu sa svojim potrebama i procijenjenim mogućostima. Tako objašnjavam rezultate tabele da, godine '2015' bilo je 237.025 ljudi starih između 20-24 godine, a deset godina kasnije, 2025. godine, predviđa se 175.849 ljudi u toj starosnoj grupi. U apsolutnim veličinama, ugrubo oko 60 000 hiljada manje u toj starosnoj grupi u 10 godina. To je dovođenje u vezu odnosa rodjenih, ugrubo, u periodu rata '91-95', koji su  2015. godine imali '20 do 24' godina, i onih rođenih 10 godina kasnije izmedju '2000 i 05', koje će u grupi '20-24 godina' biti 2025. godine. Deset godina kasnije, ljudi nisu lako povjerovali u mogućnost boljeg sutra. 
 
 ## Projekcije broja radjanja po ženi
     
-Predivđanje populacije nekog prostora je stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju). Projekcije Ujedinjenih nacija, osim scenarija najveće vjerovatnoće(koju smo ilustrovali), nude i  varijantu nižeg i varijantu višeg rasta. 
+Predivđanje populacije nekog prostora je stvar vjerovatnoće, prije svih -kolika će biti stopa fertilnosti ( koliko će žene u prosjeku djece da rađaju). Projekcije Ujedinjenih nacija, osim scenarija najveće vjerovatnoće(koju smo ilustrovali), nude i  varijantu nižeg i varijantu višeg rasta. Planiranje porodice rijetko je svjesna odluka pojedinca, uvijek je prije sociološki fenomen. Uvjerenje o optimalnoj porodici, optimalnoj starosti za brak ili broju potomaka po domaćinstvu je uvelike naslijedjeno od navike predaka, otuda tendencija tog pokazatelja da se sporo mijenja.
 
 Slika ispod pokazuje kako se kretao broj rađanja po ženi, račvanja u godini 2015 predstavlja te tri varijante: visoki, srednji i nizak rast. Ravna isprekidana linija stope proste reprodukcije predstavlja broj radjanja potreban da bi se održao postojeći broj stanovnika, ta brojka je 2.1 djece po ženi ( dakle, od dva roditelja da ostane dvoje djece).
 
@@ -519,16 +519,16 @@ Radi jednostavnijeg prikaza, grupisao sam podatke u većoj mjeri. Dakle, sada im
 Jedna značajna mjera održivosti društva zaslužuje da je obradimo. Statistike je nazivaju mjerom totalne populacione zavisnosti.
 U stvari to je - udio zbira osoba starosti '0-19' i '65+', koje se smatraju neaktivnim kategorijama (djecom i starima), naspram  ekonomski aktivnih osoba, starosti '20-65'. Znači odnos aktivnog i nekativnog stanovništva. Naravno, iako mnogi počinju da rade prije dvadesete, a i mnogi rade iako stariji od 65, mjera je koncipirana da bude precizna. Dakle, prikazan je broj izdržavanih osoba od strane 100 pojedinaca grupe '15-65'.
 
-Kao što jedna porodica traži zdrav balans, da je čini muž koji radi, žena koja radi i eto, troje djece- zavisnih članova i stara baka sa penzijom dovoljnom za lijekove. Slabije balansirana porodica je jedan muž sa prosječnom BiH platom, dvije babe i petoro djece. Puno članova koje zavise od produktivnog člana domaćinstva. Moj smisao za analogiju je banalan, valjda će se popraviti sa daljim radom oko bloga. Sljedeća tabela bira najrazličitije zemlje i vidi se da sve kreću sa sličnih pozicija i dolaze u slične pozicije.
 
 Prva mjerenja iz 50-ih, kažu, u Bosni i Hercegovini imamo da je 110 zavisnih lica izdržavano od strane 100 radno sposobnih lica. Dvijehiljadepetnaeste, taj broj je pao na 46. __Dakle, danas, radnosposobnih 100 ljudi  izdržava 46 starijih i mladih osoba__. Takav odnos sam po sebi nije problematičan, kada bi samo rad kao sirovina bio problem.
 
 Kao što ste svi pretpostavili, razlike između starijih mladih su se proširivale, a odnos o kojem govorimo je stagnirao na račun odluke o planiranju manjih porodica ili, konkretno, odluka ili slučaja neostavljanja potomstva. Danas imamo visok procenat stanovnika u radnom vijeku. 
 Vrijeme je i za prvi zaključak: BIH ima povoljnu starosnu strukturu u ovom trenutku, povoljniju neće imati, djece koju treba izdržavati je manje nego ikada a stari obično su zaradili pravo na penziju, kakvu takvu, u prošlom velikodušnom sistemu ili onome što je od njega polako odumiralo poslije rata, tako da i oni doprinose odbrtu novca u ekonomiji. Tražnja postoji i najlakše je prepoznati u aktivnostima kladionica i kafića, problem je sistemski zašto je ona decenijama nedisciplinovana i do kada će ostati takva. Sjećam se kada je na umanjenu populaciju na Dobrinji 1, otvoreno kroz godinu dana 3 dodatne kladionice u radijusu od dvjesto metara, od kojih sve i danas rade. Problem nisu kvantiteti već suptilnije mjere. Uticaj mogućeg člana društva nije linearan. 
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_22_1.png" alt="Odnos  1955-2015">
+
 Od godine '1955' pratimo grafik do '2015' godine. Svršetkom drugog svetskog rata, BIH je krenula u proces takozvane 'demografske tranzicije' sa nadprosječno visokim udjelom mladih '0-14' godina starosti u odnosu na brojnost aktivnog dijela populacije. Svi se sjećamo tih priča o velikim dvadesetočlanim porodicama iz cijele Bosne i svakako Hercegovine. Otac radnik uz podršku porodice obično je bio sposoban da ih sve izvede na pravi put. Ovdje sada stavljam tačku, neka svi razmisle za sebe.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/output_22_1.png" alt="Odnos  1955-2015">
  
 
 
@@ -536,177 +536,3 @@ Od godine '1955' pratimo grafik do '2015' godine. Svršetkom drugog svetskog rat
 
 
 
-# Količnik pomoći starijim ljudima
-
-Posljednja ilustracija je UN racio potencijalne pomoći klasi '64+' od strane radno sposobnog stanovnistva klase '20-65'. Dakle, sada ne brojimo mladu populaciju(od 0-19), __vidimo da u BIH na jednu osobu stariju od 65 godina idu 4,4 radno sposobna lica__  
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Region</th>
-      <th>China</th>
-      <th>Japan</th>
-      <th>Slovakia</th>
-      <th>Bosnia and Herzegovina</th>
-      <th>Serbia</th>
-      <th>Germany</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>1950</th>
-      <td>13.891136</td>
-      <td>12.159973</td>
-      <td>9.752052</td>
-      <td>14.541692</td>
-      <td>8.437697</td>
-      <td>6.961349</td>
-    </tr>
-    <tr>
-      <th>1955</th>
-      <td>14.400719</td>
-      <td>11.654812</td>
-      <td>9.514368</td>
-      <td>16.696262</td>
-      <td>9.162022</td>
-      <td>6.453754</td>
-    </tr>
-    <tr>
-      <th>1960</th>
-      <td>15.315781</td>
-      <td>11.406799</td>
-      <td>9.114490</td>
-      <td>17.011914</td>
-      <td>9.653620</td>
-      <td>5.845920</td>
-    </tr>
-    <tr>
-      <th>1965</th>
-      <td>16.181000</td>
-      <td>11.021101</td>
-      <td>7.771349</td>
-      <td>14.779139</td>
-      <td>8.817284</td>
-      <td>5.183607</td>
-    </tr>
-    <tr>
-      <th>1970</th>
-      <td>14.858466</td>
-      <td>10.037346</td>
-      <td>6.893928</td>
-      <td>13.458732</td>
-      <td>7.985881</td>
-      <td>4.635531</td>
-    </tr>
-    <tr>
-      <th>1975</th>
-      <td>13.661091</td>
-      <td>8.815462</td>
-      <td>6.409603</td>
-      <td>11.786049</td>
-      <td>7.148820</td>
-      <td>4.274101</td>
-    </tr>
-    <tr>
-      <th>1980</th>
-      <td>12.669848</td>
-      <td>7.572374</td>
-      <td>6.042675</td>
-      <td>11.300456</td>
-      <td>7.171502</td>
-      <td>4.202914</td>
-    </tr>
-    <tr>
-      <th>1985</th>
-      <td>11.995447</td>
-      <td>6.749771</td>
-      <td>6.894773</td>
-      <td>12.511679</td>
-      <td>7.873130</td>
-      <td>4.770877</td>
-    </tr>
-    <tr>
-      <th>1990</th>
-      <td>11.604086</td>
-      <td>5.868958</td>
-      <td>6.288726</td>
-      <td>10.517315</td>
-      <td>6.951957</td>
-      <td>4.640860</td>
-    </tr>
-    <tr>
-      <th>1995</th>
-      <td>10.781131</td>
-      <td>4.857965</td>
-      <td>6.198276</td>
-      <td>7.477715</td>
-      <td>5.811959</td>
-      <td>4.415569</td>
-    </tr>
-    <tr>
-      <th>2000</th>
-      <td>9.910066</td>
-      <td>4.017273</td>
-      <td>6.110296</td>
-      <td>6.237487</td>
-      <td>4.873083</td>
-      <td>4.118564</td>
-    </tr>
-    <tr>
-      <th>2005</th>
-      <td>9.410728</td>
-      <td>3.384628</td>
-      <td>6.147264</td>
-      <td>5.101790</td>
-      <td>4.579154</td>
-      <td>3.538522</td>
-    </tr>
-    <tr>
-      <th>2010</th>
-      <td>8.779679</td>
-      <td>2.851080</td>
-      <td>5.799116</td>
-      <td>5.049692</td>
-      <td>4.689653</td>
-      <td>3.207880</td>
-    </tr>
-    <tr>
-      <th>2015</th>
-      <td>7.506943</td>
-      <td>2.344515</td>
-      <td>5.026510</td>
-      <td>4.441367</td>
-      <td>4.110766</td>
-      <td>3.114170</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-    <matplotlib.axes._subplots.AxesSubplot at 0x7fcc36438860>
-
-
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/output_26_1.png" alt="Odnos  1955-2015">
-
-Ova mjera nije konačna razrada svih implikacija koje nosi. Prvo, ona ne uzima u obzir stalno nezaposlena lica, sa čime BIH ima prilično problema. U tabeli ispod možemo vidjeti varijacije pomenute mjere. Smanjenje ove mjere ima ozbiljne implikacije za finansijske i osiguravajuće šeme, pogotovo za penzioni sistem zasnovan na međugeneracijskoj solidarnosti, kakav je implementiran u BIH. Razrada tog pitanja doći će na red kasnije.
-Ova mjera nije konačna razrada svih implikacija koje nosi kaj količnik. Prvo, ona ne uzima u obzir stalno nezaposlena lica, sa čime BIH ima ozbiljne probleme, koje treba evidentirati. U tabeli ispod možemo vidjeti varijacije pomenute mjere. Smanjenje ove mjere ima ozbiljne implikacije za finansijske i osiguravajuće šeme, pogotovo za penzioni sistem zasnovan na međugeneracijskoj solidarnosti, kakav je implementiran u BIH. Razrada tog pitanja doći će na red kasnije.
