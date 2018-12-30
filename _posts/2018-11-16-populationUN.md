@@ -23,7 +23,7 @@ Slika ispod pokazuje srednju projektovanu starost populacije Bosne i Hercegovine
 
 Pokušajte uočiti smanjenja koja počinju sa lijeve strane, odozgo, prema dole. Vidite kako svako 10 godina dva dodatna lijeva stubića značajno izgube supstancu. Zato nije dovoljno uputiti na agregatni neto gubitak stanovništva, populacija se ne obnavlja na prethodnoj brojnosti, a broj starijih ostaje konstantan. Brojnost stanovništva se mijenja po dva osnova: migracioni saldo( dolasci - odlasci) i prirodni priraštaj( rađanja - umiranja). 
 
-<iframe width="400" height="325" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="https://www.google.com/publicdata/embed?ds=d5bncppjof8f9_&amp;ctype=l&amp;strail=false&amp;bcs=d&amp;nselm=h&amp;met_y=ny_gdp_mktp_kd_zg&amp;scale_y=lin&amp;ind_y=false&amp;rdim=region&amp;idim=country:ALB:BIH:CYP&amp;ifdim=region&amp;hl=en_US&amp;dl=en_US&amp;ind=false&amp;icfg"></iframe>
+<iframe width="700" height="625" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="https://www.google.com/publicdata/embed?ds=d5bncppjof8f9_&amp;ctype=l&amp;strail=false&amp;bcs=d&amp;nselm=h&amp;met_y=ny_gdp_mktp_kd_zg&amp;scale_y=lin&amp;ind_y=false&amp;rdim=region&amp;idim=country:ALB:BIH:CYP&amp;ifdim=region&amp;hl=en_US&amp;dl=en_US&amp;ind=false&amp;icfg"></iframe>
 
 Radi pojednostavljenja poente grafika, ispod prilažem jasnu tabelu, prva kolona  je godina'2015', a raspored stanovnika po starosnim grupama su u redovima. 
 Zagledajte se u tabelu procjenjene brojnosti naših starosnih kohorti.
